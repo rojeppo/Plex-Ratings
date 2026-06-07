@@ -114,15 +114,7 @@
       "imdbId": "tt13718450",
       "type": "show",
       "poster": "posters/16596.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/tv/100565/watch?locale=US",
-        "providers": [
-          {
-            "name": "Crunchyroll Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "26884",
@@ -4024,10 +4016,6 @@
         "link": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           }
@@ -6477,6 +6465,10 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
@@ -6847,6 +6839,10 @@
         "link": "https://www.themoviedb.org/movie/351339-anthropoid/watch?locale=US",
         "providers": [
           {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -7099,6 +7095,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8242,5 +8242,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-07T13:13:23.771Z"
+  "updatedAt": "2026-06-07T19:02:05.661Z"
 }
