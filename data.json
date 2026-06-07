@@ -6409,10 +6409,6 @@
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
           },
@@ -7339,10 +7335,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -8250,5 +8242,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-07T08:41:50.814Z"
+  "updatedAt": "2026-06-07T13:13:23.771Z"
 }
