@@ -978,8 +978,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -8242,5 +8242,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-08T19:57:29.841Z"
+  "updatedAt": "2026-06-09T01:48:35.721Z"
 }
