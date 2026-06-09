@@ -6108,6 +6108,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6333,6 +6337,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6419,6 +6427,10 @@
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
+          },
+          {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
           },
           {
             "name": "Cineverse",
@@ -7059,6 +7071,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
@@ -8242,5 +8258,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-09T14:14:19.390Z"
+  "updatedAt": "2026-06-09T19:52:29.740Z"
 }
