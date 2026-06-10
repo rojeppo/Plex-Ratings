@@ -617,6 +617,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+          },
+          {
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -8258,5 +8262,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-09T19:52:29.740Z"
+  "updatedAt": "2026-06-10T01:58:48.759Z"
 }
