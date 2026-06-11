@@ -3749,6 +3749,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -3778,6 +3782,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4654,10 +4662,6 @@
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
-          },
-          {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           },
@@ -4672,6 +4676,10 @@
           {
             "name": "Pluto TV",
             "logo": "https://image.tmdb.org/t/p/original/dB8G41Q6tSL5NBisrIeqByfepBc.jpg"
+          },
+          {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
           {
             "name": "Tubi TV",
@@ -5637,6 +5645,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6337,10 +6349,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6413,6 +6421,10 @@
             "logo": "https://image.tmdb.org/t/p/original/5zUnCq0pvixEtQafzOBBWqxNRvX.jpg"
           },
           {
+            "name": "ARROW",
+            "logo": "https://image.tmdb.org/t/p/original/wAuMUrRTVaJ2CZ4ZpyQbayZx0iU.jpg"
+          },
+          {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
@@ -6435,10 +6447,6 @@
           {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -7176,10 +7184,6 @@
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
-          },
-          {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           },
@@ -7194,6 +7198,10 @@
           {
             "name": "Pluto TV",
             "logo": "https://image.tmdb.org/t/p/original/dB8G41Q6tSL5NBisrIeqByfepBc.jpg"
+          },
+          {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
           {
             "name": "Tubi TV",
@@ -7339,16 +7347,16 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
           {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
-          },
-          {
-            "name": "Plex Channel",
-            "logo": "https://image.tmdb.org/t/p/original/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg"
           },
           {
             "name": "Darkroom",
@@ -7691,16 +7699,20 @@
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
-          },
-          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
           {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/19fkcOz0xeUgCVW8tO85uOYnYK9.jpg"
+          },
+          {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
+          },
+          {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -7926,10 +7938,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "Plex Channel",
-            "logo": "https://image.tmdb.org/t/p/original/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg"
           }
         ]
       }
@@ -8035,10 +8043,6 @@
           {
             "name": "Cinemax Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
-          },
-          {
-            "name": "Plex Channel",
-            "logo": "https://image.tmdb.org/t/p/original/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg"
           }
         ]
       }
@@ -8246,5 +8250,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-11T09:59:10.547Z"
+  "updatedAt": "2026-06-11T15:26:59.828Z"
 }
