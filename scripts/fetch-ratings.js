@@ -34,7 +34,7 @@ async function downloadPoster(thumb, ratingKey) {
   if (!thumb) return null;
   const sep = thumb.includes('?') ? '&' : '?';
   const innerUrl = encodeURIComponent(`${PLEX_URL}${thumb}?X-Plex-Token=${PLEX_TOKEN}`);
-  const url = `${PLEX_URL}/photo/:/transcode?url=${innerUrl}&width=300&height=450&minSize=1&upscale=1&X-Plex-Token=${PLEX_TOKEN}`;
+  const url = `${PLEX_URL}/photo/:/transcode?url=${innerUrl}&width=600&height=900&minSize=1&upscale=1&X-Plex-Token=${PLEX_TOKEN}`;
   try {
     const res = await fetch(url);
     if (!res.ok) return null;
