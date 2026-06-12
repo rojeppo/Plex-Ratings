@@ -33,7 +33,7 @@ async function plexGet(p) {
 async function downloadPoster(thumb, ratingKey) {
   if (!thumb) return null;
   const sep = thumb.includes('?') ? '&' : '?';
-  const url = `${PLEX_URL}${thumb}${sep}X-Plex-Token=${PLEX_TOKEN}`;
+  const url = `${PLEX_URL}/photo/:/transcode?url=${encodeURIComponent(PLEX_URL + thumb)}&width=300&height=450&minSize=1&upscale=1&X-Plex-Token=${PLEX_TOKEN}`;
   try {
     const res = await fetch(url);
     if (!res.ok) return null;
