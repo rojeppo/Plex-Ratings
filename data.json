@@ -4129,8 +4129,7 @@
       "duration": 6564477,
       "genres": [
         "Comedy",
-        "Drama",
-        "Romance"
+        "Drama"
       ],
       "imdbId": "tt0458352",
       "type": "movie",
@@ -4211,10 +4210,6 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "Starz Apple TV Channel",
-            "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           },
           {
             "name": "FXNow",
@@ -6441,10 +6436,6 @@
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
           {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
-          },
-          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
@@ -7075,10 +7066,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
@@ -8246,5 +8233,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-12T09:50:40.959Z"
+  "updatedAt": "2026-06-12T14:27:26.299Z"
 }
