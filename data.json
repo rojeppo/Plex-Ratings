@@ -6481,10 +6481,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
-          },
-          {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           },
@@ -6499,6 +6495,10 @@
           {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/19fkcOz0xeUgCVW8tO85uOYnYK9.jpg"
+          },
+          {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
           {
             "name": "Tubi TV",
@@ -8246,5 +8246,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-11T20:05:34.460Z"
+  "updatedAt": "2026-06-12T02:06:45.357Z"
 }
