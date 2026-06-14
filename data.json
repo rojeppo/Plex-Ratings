@@ -89,6 +89,10 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
@@ -8413,5 +8417,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-14T02:08:43.826Z"
+  "updatedAt": "2026-06-14T08:58:34.693Z"
 }
