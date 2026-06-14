@@ -679,6 +679,10 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -744,6 +748,10 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Adult Swim",
@@ -986,8 +994,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -2721,6 +2729,10 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           }
@@ -3542,6 +3554,34 @@
       "type": "show",
       "poster": "posters/28534.jpg",
       "whereToWatch": null
+    },
+    {
+      "ratingKey": "35445",
+      "title": "You Can't Be in a Rom-Com with Your Childhood Friends!",
+      "year": 2026,
+      "summary": "High schooler Eiyuu struggles with new romantic feelings for childhood friends Shio and Akari, unaware they might feel the same way. He fears ruining their friendship if they discover his changed perspective.",
+      "userRating": 8,
+      "studio": "Tezuka Productions",
+      "contentRating": null,
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Romance",
+        "Anime"
+      ],
+      "imdbId": "tt38253018",
+      "type": "show",
+      "poster": "posters/35445.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/285743/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "20656",
@@ -5720,10 +5760,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8377,5 +8413,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-13T19:03:42.447Z"
+  "updatedAt": "2026-06-14T02:08:43.826Z"
 }
