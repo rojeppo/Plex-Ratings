@@ -4149,15 +4149,7 @@
       "imdbId": "tt2103281",
       "type": "movie",
       "poster": "posters/1710.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/119450-dawn-of-the-planet-of-the-apes/watch?locale=US",
-        "providers": [
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "1751",
@@ -4913,6 +4905,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
@@ -5729,10 +5725,6 @@
         "link": "https://www.themoviedb.org/movie/509-notting-hill/watch?locale=US",
         "providers": [
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           }
@@ -5919,10 +5911,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -8417,5 +8405,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-14T08:58:34.693Z"
+  "updatedAt": "2026-06-14T13:22:26.746Z"
 }
