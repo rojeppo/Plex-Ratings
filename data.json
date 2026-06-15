@@ -3871,6 +3871,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4088,6 +4092,10 @@
         "link": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
@@ -4119,6 +4127,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
@@ -4481,7 +4493,7 @@
       "ratingKey": "24013",
       "title": "Flawless",
       "year": 2007,
-      "summary": "In 1960s London, an elderly janitor convinces a glass-ceiling constrained executive to help him steal a handful of diamonds from their employer, the London Diamond Corporation.",
+      "summary": "In 1960s London, a janitor convinces a frustrated executive to help him steal gems from their employer, the London Diamond Corporation.",
       "userRating": 5,
       "studio": "Magnolia Pictures",
       "contentRating": "PG-13",
@@ -4659,10 +4671,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8369,5 +8377,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-15T11:38:47.449Z"
+  "updatedAt": "2026-06-15T16:48:05.089Z"
 }
