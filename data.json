@@ -4218,8 +4218,20 @@
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
           {
+            "name": "AMC+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "AMC",
+            "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -5961,7 +5973,15 @@
       "imdbId": "tt0120812",
       "type": "movie",
       "poster": "posters/6378.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/2109-rush-hour/watch?locale=US",
+        "providers": [
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6382",
@@ -5981,7 +6001,15 @@
       "imdbId": "tt0266915",
       "type": "movie",
       "poster": "posters/6382.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/5175-rush-hour-2/watch?locale=US",
+        "providers": [
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6586",
@@ -8361,5 +8389,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-16T10:48:24.127Z"
+  "updatedAt": "2026-06-16T16:17:07.337Z"
 }
