@@ -3718,6 +3718,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4218,8 +4222,8 @@
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
           {
-            "name": "AMC+ Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
+            "name": "AMC+",
+            "logo": "https://image.tmdb.org/t/p/original/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
           },
           {
             "name": "YouTube TV",
@@ -4544,14 +4548,6 @@
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
-          },
-          {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/19fkcOz0xeUgCVW8tO85uOYnYK9.jpg"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
           {
             "name": "Xumo Play",
@@ -5681,6 +5677,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/3638-no-reservations/watch?locale=US",
         "providers": [
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
+          },
           {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
@@ -7488,6 +7488,10 @@
           {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
+          },
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           }
         ]
       }
@@ -7657,10 +7661,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
@@ -8393,5 +8393,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-17T10:21:16.888Z"
+  "updatedAt": "2026-06-17T14:43:48.073Z"
 }
