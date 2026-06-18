@@ -3698,6 +3698,26 @@
       }
     },
     {
+      "ratingKey": "35348",
+      "title": "Avatar: Fire and Ash",
+      "year": 2025,
+      "summary": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+      "userRating": 8,
+      "studio": "20th Century Studios",
+      "contentRating": "PG-13",
+      "duration": 11840703,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "imdbId": "tt1757678",
+      "type": "movie",
+      "poster": "posters/35348.jpg",
+      "whereToWatch": null
+    },
+    {
       "ratingKey": "724",
       "title": "Avatar: The Way of Water",
       "year": 2022,
@@ -8405,5 +8425,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-18T02:10:20.815Z"
+  "updatedAt": "2026-06-18T10:01:24.543Z"
 }
