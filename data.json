@@ -625,10 +625,6 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
-            "name": "HiDive",
-            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -1002,8 +998,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "HiDive",
-            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
+            "name": "Hidive Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
           }
         ]
       }
@@ -1403,10 +1399,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/110070/watch?locale=US",
         "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
@@ -4552,14 +4544,6 @@
           {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
-          },
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           }
         ]
       }
@@ -8264,10 +8248,6 @@
             "logo": "https://image.tmdb.org/t/p/original/19fkcOz0xeUgCVW8tO85uOYnYK9.jpg"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
-          },
-          {
             "name": "DistroTV",
             "logo": "https://image.tmdb.org/t/p/original/6gdKp9OwHgDLloethSPxZbtovkl.jpg"
           },
@@ -8410,5 +8390,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-19T10:08:05.313Z"
+  "updatedAt": "2026-06-19T14:34:52.047Z"
 }
