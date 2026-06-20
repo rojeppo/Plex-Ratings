@@ -3681,10 +3681,6 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -3734,10 +3730,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -3950,6 +3942,10 @@
           {
             "name": "Wonder Project Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/aCEpg6aKYM6UUYP95frtKYyVQWD.jpg"
+          },
+          {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
           {
             "name": "Hoopla",
@@ -7198,6 +7194,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -8244,6 +8244,10 @@
             "logo": "https://image.tmdb.org/t/p/original/19fkcOz0xeUgCVW8tO85uOYnYK9.jpg"
           },
           {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
+          },
+          {
             "name": "DistroTV",
             "logo": "https://image.tmdb.org/t/p/original/6gdKp9OwHgDLloethSPxZbtovkl.jpg"
           },
@@ -8386,5 +8390,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-19T19:21:04.084Z"
+  "updatedAt": "2026-06-20T13:19:46.334Z"
 }
