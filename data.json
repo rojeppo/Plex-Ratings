@@ -625,6 +625,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+          },
+          {
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -998,8 +1002,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -1583,8 +1587,8 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -2687,10 +2691,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65942-re/watch?locale=US",
         "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
@@ -8374,5 +8374,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-21T13:29:42.462Z"
+  "updatedAt": "2026-06-21T19:09:12.347Z"
 }
