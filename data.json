@@ -6079,15 +6079,7 @@
       "imdbId": "tt1074638",
       "type": "movie",
       "poster": "posters/6721.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=US",
-        "providers": [
-          {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "6791",
@@ -6536,16 +6528,8 @@
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
           {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
-          },
-          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -8390,5 +8374,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-21T09:32:00.714Z"
+  "updatedAt": "2026-06-21T13:29:42.462Z"
 }
