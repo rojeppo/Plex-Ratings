@@ -4072,8 +4072,8 @@
         "link": "https://www.themoviedb.org/movie/670292-the-creator/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           }
         ]
       }
@@ -5732,6 +5732,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6030,10 +6034,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "Kanopy",
-            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           }
         ]
       }
@@ -8386,5 +8386,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-23T08:53:20.106Z"
+  "updatedAt": "2026-06-23T14:13:55.822Z"
 }
