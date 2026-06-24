@@ -3850,10 +3850,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5709,15 +5705,7 @@
       "imdbId": "tt0125439",
       "type": "movie",
       "poster": "posters/5467.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/509-notting-hill/watch?locale=US",
-        "providers": [
-          {
-            "name": "YouTube Free",
-            "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "5663",
@@ -6219,10 +6207,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6790,10 +6774,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8398,5 +8378,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-24T08:48:21.618Z"
+  "updatedAt": "2026-06-24T13:58:05.186Z"
 }
