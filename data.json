@@ -4104,6 +4104,10 @@
         "link": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
@@ -4605,10 +4609,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
         ]
       }
@@ -8378,5 +8378,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-25T08:43:52.303Z"
+  "updatedAt": "2026-06-25T13:55:55.774Z"
 }
