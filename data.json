@@ -4910,10 +4910,6 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
@@ -8374,5 +8370,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-26T08:45:00.898Z"
+  "updatedAt": "2026-06-26T13:54:03.973Z"
 }
