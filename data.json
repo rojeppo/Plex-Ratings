@@ -4144,10 +4144,6 @@
         "link": "https://www.themoviedb.org/movie/49026-the-dark-knight-rises/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
@@ -7186,6 +7182,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -8374,5 +8374,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-29T15:23:22.422Z"
+  "updatedAt": "2026-06-29T19:29:29.787Z"
 }
