@@ -3829,6 +3829,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4107,10 +4111,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/155-the-dark-knight/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
@@ -7831,10 +7831,6 @@
             "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
@@ -8378,5 +8374,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-06-29T10:15:38.939Z"
+  "updatedAt": "2026-06-29T15:23:22.422Z"
 }
