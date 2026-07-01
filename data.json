@@ -1897,6 +1897,10 @@
         "link": "https://www.themoviedb.org/tv/45501/watch?locale=US",
         "providers": [
           {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
             "name": "Hidive Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
           }
@@ -3861,10 +3865,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7947,12 +7947,12 @@
         "link": "https://www.themoviedb.org/movie/16619-ordinary-people/watch?locale=US",
         "providers": [
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Kanopy",
@@ -8409,5 +8409,5 @@
       "whereToWatch": null
     }
   ],
-  "updatedAt": "2026-07-01T13:59:31.913Z"
+  "updatedAt": "2026-07-01T19:26:18.112Z"
 }
