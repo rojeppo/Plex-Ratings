@@ -3894,10 +3894,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -3962,10 +3958,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
-          {
-            "name": "Wonder Project Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/aCEpg6aKYM6UUYP95frtKYyVQWD.jpg"
-          },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
@@ -4469,10 +4461,6 @@
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
           {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
-          },
-          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
@@ -4481,8 +4469,8 @@
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -4657,10 +4645,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4933,24 +4917,16 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+            "name": "AMC+",
+            "logo": "https://image.tmdb.org/t/p/original/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
           },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -5097,8 +5073,20 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          },
+          {
+            "name": "Fandango at Home Free",
+            "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           }
         ]
       }
@@ -5151,12 +5139,12 @@
         "link": "https://www.themoviedb.org/movie/75780-jack-reacher/watch?locale=US",
         "providers": [
           {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
           {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
           },
           {
             "name": "Starz Apple TV Channel",
@@ -5167,12 +5155,8 @@
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
-          },
-          {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
             "name": "Kanopy",
@@ -5229,7 +5213,19 @@
       "imdbId": "tt0433400",
       "type": "movie",
       "poster": "posters/4088.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/10033-just-friends/watch?locale=US",
+        "providers": [
+          {
+            "name": "HBO Max",
+            "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "name": "Cinemax Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "24308",
@@ -5654,7 +5650,19 @@
       "imdbId": "tt0892782",
       "type": "movie",
       "poster": "posters/5161.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/15512-monsters-vs-aliens/watch?locale=US",
+        "providers": [
+          {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5324",
@@ -5755,10 +5763,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6106,8 +6110,12 @@
         "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=US",
         "providers": [
           {
-            "name": "MGM Plus Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/lD7HKUmXDvUya58DceiTA809Zbf.jpg"
+            "name": "MGM+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/efu1Cqc63XrPBoreYnf2mn0Nizj.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -6617,10 +6625,6 @@
           {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -6801,10 +6805,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6837,10 +6837,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           }
         ]
       }
@@ -6988,6 +6984,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
           },
           {
             "name": "Kanopy",
@@ -7185,15 +7185,7 @@
       "imdbId": "tt1823672",
       "type": "movie",
       "poster": "posters/11415.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/198184-chappie/watch?locale=US",
-        "providers": [
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "11470",
@@ -7416,12 +7408,24 @@
         "link": "https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once/watch?locale=US",
         "providers": [
           {
-            "name": "HBO Max",
-            "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
+          },
+          {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
+          },
+          {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           }
         ]
       }
@@ -7475,7 +7479,19 @@
       "imdbId": "tt2381941",
       "type": "movie",
       "poster": "posters/11671.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/256591-focus/watch?locale=US",
+        "providers": [
+          {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "13101",
@@ -7955,6 +7971,10 @@
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           }
@@ -8010,10 +8030,6 @@
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -8406,8 +8422,20 @@
       "imdbId": "tt1790885",
       "type": "movie",
       "poster": "posters/13528.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/97630-zero-dark-thirty/watch?locale=US",
+        "providers": [
+          {
+            "name": "AMC",
+            "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          }
+        ]
+      }
     }
   ],
-  "updatedAt": "2026-07-02T08:37:35.977Z"
+  "updatedAt": "2026-07-02T13:24:06.281Z"
 }
