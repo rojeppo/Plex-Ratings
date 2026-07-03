@@ -3681,10 +3681,6 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4632,6 +4628,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
         ]
       }
@@ -4690,10 +4690,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5151,6 +5147,10 @@
         "link": "https://www.themoviedb.org/movie/75780-jack-reacher/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
@@ -5289,7 +5289,15 @@
       "imdbId": "tt4916630",
       "type": "movie",
       "poster": "posters/4176.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/522212-just-mercy/watch?locale=US",
+        "providers": [
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "8925",
@@ -5930,6 +5938,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6075,6 +6087,10 @@
         "link": "https://www.themoviedb.org/movie/9778-serendipity/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
           },
@@ -6085,6 +6101,10 @@
           {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
+          },
+          {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           }
         ]
       }
@@ -6169,7 +6189,15 @@
       "imdbId": "tt0108160",
       "type": "movie",
       "poster": "posters/6791.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/858-sleepless-in-seattle/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6828",
@@ -6870,6 +6898,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/136400-2-guns/watch?locale=US",
         "providers": [
+          {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
           {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
@@ -8490,6 +8522,10 @@
         "link": "https://www.themoviedb.org/movie/97630-zero-dark-thirty/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "AMC",
             "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
           },
@@ -8501,5 +8537,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T13:26:55.918Z"
+  "updatedAt": "2026-07-03T18:56:36.714Z"
 }
