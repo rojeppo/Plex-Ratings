@@ -4221,6 +4221,10 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "AMC+",
             "logo": "https://image.tmdb.org/t/p/original/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
           },
@@ -4235,6 +4239,10 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
         ]
       }
@@ -4464,6 +4472,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
@@ -5789,6 +5801,10 @@
         "link": "https://www.themoviedb.org/movie/27581-the-other-guys/watch?locale=US",
         "providers": [
           {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
@@ -5968,7 +5984,19 @@
       "imdbId": "tt1318514",
       "type": "movie",
       "poster": "posters/6198.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/61791-rise-of-the-planet-of-the-apes/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6378",
@@ -6109,6 +6137,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "MGM+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/efu1Cqc63XrPBoreYnf2mn0Nizj.jpg"
@@ -6567,8 +6599,16 @@
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           },
           {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
+          },
+          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
+          },
+          {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -7412,8 +7452,16 @@
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
+          },
+          {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
+          },
+          {
+            "name": "Fandango at Home Free",
+            "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           },
           {
             "name": "YouTube Free",
@@ -7520,6 +7568,10 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
             "name": "Darkroom",
@@ -7963,6 +8015,10 @@
         "link": "https://www.themoviedb.org/movie/16619-ordinary-people/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
@@ -8336,6 +8392,10 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
+          },
+          {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
@@ -8350,6 +8410,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -8437,5 +8501,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T08:42:41.229Z"
+  "updatedAt": "2026-07-03T13:26:55.918Z"
 }
