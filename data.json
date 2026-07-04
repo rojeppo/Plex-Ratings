@@ -5202,10 +5202,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-          },
-          {
-            "name": "Fawesome",
-            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           }
         ]
       }
@@ -6700,10 +6696,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
-            "name": "Fawesome",
-            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
-          },
-          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
@@ -6722,6 +6714,10 @@
           {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -8551,8 +8547,8 @@
         "link": "https://www.themoviedb.org/movie/97630-zero-dark-thirty/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
             "name": "AMC",
@@ -8566,5 +8562,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-04T08:16:46.818Z"
+  "updatedAt": "2026-07-04T12:53:34.645Z"
 }
