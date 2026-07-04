@@ -1472,6 +1472,35 @@
       }
     },
     {
+      "ratingKey": "35602",
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "year": 2026,
+      "summary": "Loner Maki Maehara expects another friendless year until he bumps into popular classmate Umi Asanagi at a video store. Despite their different social circles, they bond over shared interests in B-movies, and Asanagi asks to be friends.",
+      "userRating": 8,
+      "studio": "CONNECT",
+      "contentRating": "TV-14",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Romance",
+        "Drama",
+        "Anime"
+      ],
+      "imdbId": "tt37532971",
+      "type": "show",
+      "poster": "posters/35602.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/290019/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "30701",
       "title": "I'm Getting Married to a Girl I Hate in My Class",
       "year": 2025,
@@ -8537,5 +8566,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T18:56:36.714Z"
+  "updatedAt": "2026-07-04T01:25:53.871Z"
 }
