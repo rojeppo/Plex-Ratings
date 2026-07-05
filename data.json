@@ -4694,7 +4694,7 @@
       "ratingKey": "2647",
       "title": "Frozen II",
       "year": 2019,
-      "summary": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "summary": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to the ancient autumnal forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
       "userRating": 7,
       "studio": "Walt Disney Animation Studios",
       "contentRating": "PG",
@@ -6664,10 +6664,6 @@
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
@@ -8574,5 +8570,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-05T08:35:17.259Z"
+  "updatedAt": "2026-07-05T13:00:30.592Z"
 }
