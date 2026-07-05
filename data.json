@@ -1449,10 +1449,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
           },
           {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
-          },
-          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
           },
@@ -8578,5 +8574,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-04T18:48:57.588Z"
+  "updatedAt": "2026-07-05T01:31:50.868Z"
 }
