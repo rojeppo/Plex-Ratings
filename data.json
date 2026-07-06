@@ -3938,10 +3938,6 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
-          },
-          {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           }
         ]
       }
@@ -5380,15 +5376,7 @@
       "imdbId": "tt0441773",
       "type": "movie",
       "poster": "posters/4253.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/9502-kung-fu-panda/watch?locale=US",
-        "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "4380",
@@ -5860,10 +5848,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
             "name": "Starz Apple TV Channel",
@@ -6657,10 +6641,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
           {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
@@ -8442,6 +8422,10 @@
             "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           },
           {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
+          },
+          {
             "name": "DistroTV",
             "logo": "https://image.tmdb.org/t/p/original/6gdKp9OwHgDLloethSPxZbtovkl.jpg"
           },
@@ -8608,5 +8592,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-06T14:49:22.209Z"
+  "updatedAt": "2026-07-06T19:26:51.018Z"
 }
