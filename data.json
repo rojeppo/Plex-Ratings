@@ -1449,10 +1449,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
           },
           {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
-          },
-          {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
@@ -5210,6 +5206,10 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
+            "name": "Fawesome",
+            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           }
         ]
       }
@@ -5741,6 +5741,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
@@ -6734,6 +6738,10 @@
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
           },
           {
+            "name": "Fawesome",
+            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
@@ -6782,10 +6790,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/916192/watch?locale=US",
         "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
@@ -7691,6 +7695,10 @@
           {
             "name": "Darkroom",
             "logo": "https://image.tmdb.org/t/p/original/8G7qvHF7hdmXpfxxqtF1WT9ib68.jpg"
+          },
+          {
+            "name": "Fawesome",
+            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           }
         ]
       }
@@ -8600,5 +8608,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-06T09:48:17.708Z"
+  "updatedAt": "2026-07-06T14:49:22.209Z"
 }
