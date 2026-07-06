@@ -6274,6 +6274,32 @@
       }
     },
     {
+      "ratingKey": "35618",
+      "title": "Solo Mio",
+      "year": 2026,
+      "summary": "Left heartbroken in Rome after a wedding disaster, a stranded groom finds his ruined honeymoon transformed by a determined local and a few meddling travelers-proving that sometimes heartbreak is only the beginning.",
+      "userRating": 8,
+      "studio": "A Higher Standard",
+      "contentRating": "PG",
+      "duration": 5793872,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "imdbId": "tt32306991",
+      "type": "movie",
+      "poster": "posters/35618.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/1291335-solo-mio/watch?locale=US",
+        "providers": [
+          {
+            "name": "Angel Studios",
+            "logo": "https://image.tmdb.org/t/p/original/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "28664",
       "title": "Sonic the Hedgehog 3",
       "year": 2024,
@@ -8574,5 +8600,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-05T18:54:42.723Z"
+  "updatedAt": "2026-07-06T01:45:48.628Z"
 }
