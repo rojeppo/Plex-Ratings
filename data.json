@@ -1009,6 +1009,43 @@
       }
     },
     {
+      "ratingKey": "27699",
+      "title": "Fire Force",
+      "year": 2019,
+      "summary": "A superhuman firefighter force is formed to deal with supernatural fire incidents.",
+      "userRating": 6,
+      "studio": "David Production",
+      "contentRating": "TV-14",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "imdbId": "tt9307686",
+      "type": "show",
+      "poster": "posters/27699.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/88046/watch?locale=US",
+        "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+          },
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "31355",
       "title": "The Foolish Angel Dances with the Devil",
       "year": 2024,
@@ -1227,6 +1264,34 @@
       "poster": "posters/31170.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/200732/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "ratingKey": "35660",
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "year": 2026,
+      "summary": "Quiet otaku Takuya Seo keeps to himself until two gals from his class, cool Kei Amane and cheerful Kotoko Ijichi, start talking to him. They bond over anime, games, and fandom-but do gals who befriend otaku really exist?",
+      "userRating": 8,
+      "studio": "TMS Entertainment",
+      "contentRating": "TV-14",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Romance",
+        "Anime"
+      ],
+      "imdbId": "tt39443176",
+      "type": "show",
+      "poster": "posters/35660.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/309163/watch?locale=US",
         "providers": [
           {
             "name": "Crunchyroll",
@@ -3011,6 +3076,35 @@
       "poster": "posters/25409.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/127532/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "ratingKey": "30889",
+      "title": "Sound! Euphonium",
+      "year": 2015,
+      "summary": "Kumiko, a girl with absolutely no ambition, decides to change herself now that she has started her high school life and try to leave her hobby, playing euphonium in orchestra aside but she totally cannot forget it anyway.",
+      "userRating": 9,
+      "studio": "Kyoto Animation",
+      "contentRating": "TV-PG",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Anime",
+        "Comedy",
+        "Music"
+      ],
+      "imdbId": "tt4384306",
+      "type": "show",
+      "poster": "posters/30889.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/62564/watch?locale=US",
         "providers": [
           {
             "name": "Crunchyroll",
@@ -8592,5 +8686,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-07T01:43:32.522Z"
+  "updatedAt": "2026-07-07T09:00:32.868Z"
 }
