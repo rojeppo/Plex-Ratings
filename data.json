@@ -6314,6 +6314,10 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
+            "name": "TCM",
+            "logo": "https://image.tmdb.org/t/p/original/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg"
           }
         ]
       }
@@ -6732,6 +6736,10 @@
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
           {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
           },
@@ -6774,10 +6782,6 @@
           {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -7939,10 +7943,6 @@
         "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
@@ -8674,5 +8674,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-11T07:28:36.713Z"
+  "updatedAt": "2026-07-11T12:44:30.282Z"
 }
