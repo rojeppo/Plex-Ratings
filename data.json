@@ -4422,6 +4422,10 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
@@ -5093,7 +5097,7 @@
       "ratingKey": "8570",
       "title": "The Holiday",
       "year": 2006,
-      "summary": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyways.",
+      "summary": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyway.",
       "userRating": 8,
       "studio": "Relativity Media",
       "contentRating": "PG-13",
@@ -8678,5 +8682,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-13T08:39:40.086Z"
+  "updatedAt": "2026-07-13T13:53:33.846Z"
 }
