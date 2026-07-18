@@ -4314,8 +4314,8 @@
         "link": "https://www.themoviedb.org/movie/8390-definitely-maybe/watch?locale=US",
         "providers": [
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           }
         ]
       }
@@ -7199,10 +7199,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
           },
@@ -7432,8 +7428,8 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
             "name": "YouTube TV",
@@ -8678,5 +8674,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-17T18:47:32.985Z"
+  "updatedAt": "2026-07-18T01:11:02.702Z"
 }
