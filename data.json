@@ -384,8 +384,8 @@
       "contentRating": "TV-MA",
       "duration": 1440000,
       "genres": [
-        "Anime",
         "Action",
+        "Animation",
         "Adventure",
         "Drama",
         "Fantasy"
@@ -2978,11 +2978,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama",
         "Romance",
-        "Anime"
+        "Drama",
+        "Anime",
+        "Animation",
+        "Comedy"
       ],
       "imdbId": "tt30024091",
       "type": "show",
@@ -3007,9 +3007,9 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
         "Drama",
+        "Comedy",
+        "Animation",
         "Romance",
         "Anime"
       ],
@@ -3094,11 +3094,11 @@
       "contentRating": "TV-PG",
       "duration": 1440000,
       "genres": [
-        "Animation",
         "Drama",
+        "Music",
         "Anime",
-        "Comedy",
-        "Music"
+        "Animation",
+        "Comedy"
       ],
       "imdbId": "tt4384306",
       "type": "show",
@@ -3212,9 +3212,9 @@
       "genres": [
         "Action",
         "Adventure",
+        "Anime",
         "Animation",
-        "Fantasy",
-        "Romance"
+        "Drama"
       ],
       "imdbId": "tt2250192",
       "type": "show",
@@ -3348,11 +3348,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama",
         "Romance",
-        "Anime"
+        "Comedy",
+        "Anime",
+        "Animation",
+        "Drama"
       ],
       "imdbId": "tt21210326",
       "type": "show",
@@ -3381,11 +3381,11 @@
       "contentRating": "TV-14",
       "duration": 1380000,
       "genres": [
-        "Animation",
+        "Romance",
         "Drama",
         "Comedy",
-        "Anime",
-        "Romance"
+        "Animation",
+        "Anime"
       ],
       "imdbId": "tt1279024",
       "type": "show",
@@ -3639,9 +3639,9 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Anime",
-        "Animation",
+        "Drama",
         "Action",
+        "Animation",
         "Adventure",
         "Comedy"
       ],
@@ -4065,10 +4065,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
@@ -6383,11 +6379,11 @@
       "contentRating": "PG",
       "duration": 6617401,
       "genres": [
+        "Family",
+        "Fantasy",
         "Action",
         "Adventure",
-        "Comedy",
-        "Family",
-        "Fantasy"
+        "Comedy"
       ],
       "imdbId": "tt18259086",
       "type": "movie",
@@ -6915,10 +6911,10 @@
       "duration": 5230984,
       "genres": [
         "Drama",
-        "Romance",
         "Anime",
+        "Animation",
         "Music",
-        "Animation"
+        "Romance"
       ],
       "imdbId": "tt12735338",
       "type": "movie",
@@ -7024,10 +7020,10 @@
       "contentRating": "R",
       "duration": 6559656,
       "genres": [
-        "Thriller",
         "Action",
+        "Comedy",
         "Crime",
-        "Comedy"
+        "Thriller"
       ],
       "imdbId": "tt1272878",
       "type": "movie",
@@ -7064,9 +7060,9 @@
       "contentRating": "R",
       "duration": 5997075,
       "genres": [
-        "Crime",
-        "Drama",
         "Thriller",
+        "Crime",
+        "Mystery",
         "Action",
         "Adventure"
       ],
@@ -7106,8 +7102,8 @@
       "duration": 6787668,
       "genres": [
         "Horror",
-        "Thriller",
         "Science Fiction",
+        "Thriller",
         "Drama"
       ],
       "imdbId": "tt0289043",
@@ -7127,9 +7123,9 @@
       "genres": [
         "Comedy",
         "Drama",
-        "Science Fiction",
+        "Romance",
         "Fantasy",
-        "Romance"
+        "Science Fiction"
       ],
       "imdbId": "tt2194499",
       "type": "movie",
@@ -7182,11 +7178,11 @@
       "contentRating": "R",
       "duration": 7252095,
       "genres": [
-        "Thriller",
-        "History",
         "War",
         "Action",
-        "Drama"
+        "Drama",
+        "History",
+        "Romance"
       ],
       "imdbId": "tt4190530",
       "type": "movie",
@@ -7397,10 +7393,10 @@
       "contentRating": "R",
       "duration": 7219304,
       "genres": [
-        "Action",
-        "Crime",
         "Science Fiction",
         "Drama",
+        "Crime",
+        "Action",
         "Thriller"
       ],
       "imdbId": "tt1823672",
@@ -8663,6 +8659,10 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
@@ -8674,5 +8674,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-18T07:22:40.876Z"
+  "updatedAt": "2026-07-18T12:42:27.722Z"
 }
