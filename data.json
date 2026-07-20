@@ -4410,6 +4410,10 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
@@ -6664,6 +6668,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6945,6 +6953,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9489-you-ve-got-mail/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
@@ -7477,10 +7489,10 @@
       "contentRating": "R",
       "duration": 6024147,
       "genres": [
-        "Action",
         "Drama",
         "Thriller",
-        "Crime"
+        "Crime",
+        "Action"
       ],
       "imdbId": "tt0780504",
       "type": "movie",
@@ -7588,10 +7600,10 @@
       "contentRating": "R",
       "duration": 6425214,
       "genres": [
-        "Action",
         "Science Fiction",
+        "Drama",
         "Thriller",
-        "Drama"
+        "Action"
       ],
       "imdbId": "tt0238380",
       "type": "movie",
@@ -7620,11 +7632,11 @@
       "contentRating": "R",
       "duration": 8359446,
       "genres": [
-        "Science Fiction",
         "Comedy",
+        "Drama",
+        "Science Fiction",
         "Action",
-        "Adventure",
-        "Fantasy"
+        "Adventure"
       ],
       "imdbId": "tt6710474",
       "type": "movie",
@@ -7712,9 +7724,9 @@
       "duration": 6284242,
       "genres": [
         "Comedy",
-        "Romance",
         "Crime",
         "Drama",
+        "Romance",
         "Thriller"
       ],
       "imdbId": "tt2381941",
@@ -7807,9 +7819,9 @@
       "contentRating": "R",
       "duration": 6835498,
       "genres": [
-        "Crime",
         "Drama",
         "Mystery",
+        "Crime",
         "Thriller"
       ],
       "imdbId": "tt0452623",
@@ -7903,10 +7915,10 @@
       "contentRating": "R",
       "duration": 6993002,
       "genres": [
-        "Drama",
         "Horror",
+        "Mystery",
         "Thriller",
-        "Mystery"
+        "Drama"
       ],
       "imdbId": "tt9639470",
       "type": "movie",
@@ -7963,9 +7975,9 @@
       "contentRating": "R",
       "duration": 8243368,
       "genres": [
+        "Drama",
         "Action",
         "Science Fiction",
-        "Drama",
         "Thriller",
         "Suspense"
       ],
@@ -8075,10 +8087,10 @@
       "contentRating": "R",
       "duration": 6641150,
       "genres": [
-        "Horror",
         "Drama",
-        "Thriller",
-        "Mystery"
+        "Horror",
+        "Mystery",
+        "Thriller"
       ],
       "imdbId": "tt5886440",
       "type": "movie",
@@ -8674,5 +8686,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-20T08:31:40.436Z"
+  "updatedAt": "2026-07-20T13:43:31.716Z"
 }
