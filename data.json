@@ -4348,10 +4348,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "AMC+",
-            "logo": "https://image.tmdb.org/t/p/original/ovmu6uot1XVvsemM2dDySXLiX57.jpg"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
@@ -6938,7 +6934,15 @@
       "imdbId": "tt0128853",
       "type": "movie",
       "poster": "posters/10707.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/9489-you-ve-got-mail/watch?locale=US",
+        "providers": [
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "10706",
@@ -7026,10 +7030,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
             "name": "Starz Apple TV Channel",
@@ -8670,5 +8670,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-19T18:44:01.987Z"
+  "updatedAt": "2026-07-20T01:19:17.417Z"
 }
