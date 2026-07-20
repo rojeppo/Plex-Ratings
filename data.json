@@ -5804,7 +5804,15 @@
       "imdbId": "tt0119738",
       "type": "movie",
       "poster": "posters/5324.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US",
+        "providers": [
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5418",
@@ -8655,10 +8663,6 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
@@ -8670,5 +8674,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-20T01:19:17.417Z"
+  "updatedAt": "2026-07-20T08:31:40.436Z"
 }
