@@ -940,15 +940,7 @@
       "imdbId": "tt0774809",
       "type": "show",
       "poster": "posters/17236.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/tv/37858-fate-stay-night/watch?locale=US",
-        "providers": [
-          {
-            "name": "Fawesome",
-            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "33511",
@@ -3951,6 +3943,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4013,6 +4009,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5828,19 +5828,7 @@
       "imdbId": "tt0119738",
       "type": "movie",
       "poster": "posters/5324.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "5418",
@@ -6692,10 +6680,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6794,10 +6778,6 @@
           {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -8532,10 +8512,6 @@
             "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
-          },
-          {
             "name": "DistroTV",
             "logo": "https://image.tmdb.org/t/p/original/6gdKp9OwHgDLloethSPxZbtovkl.jpg"
           },
@@ -8702,5 +8678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-22T13:14:22.328Z"
+  "updatedAt": "2026-07-22T18:52:52.293Z"
 }
