@@ -4074,6 +4074,10 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -8678,5 +8682,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-23T08:05:26.579Z"
+  "updatedAt": "2026-07-23T13:16:55.949Z"
 }
