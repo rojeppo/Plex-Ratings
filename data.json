@@ -4510,10 +4510,6 @@
         "link": "https://www.themoviedb.org/movie/259316-fantastic-beasts-and-where-to-find-them/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
@@ -8682,5 +8678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-24T08:02:22.548Z"
+  "updatedAt": "2026-07-24T13:10:32.359Z"
 }
