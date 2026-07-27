@@ -1216,11 +1216,11 @@
       "contentRating": "TV-MA",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Drama",
+        "Fantasy",
         "Action",
+        "Animation",
         "Adventure",
-        "Fantasy"
+        "Drama"
       ],
       "imdbId": "tt32612521",
       "type": "show",
@@ -2883,7 +2883,7 @@
       "summary": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
       "userRating": 9,
       "studio": "Studio KAI",
-      "contentRating": "TV-14",
+      "contentRating": "TV-MA",
       "duration": 1440000,
       "genres": [
         "Animation",
@@ -3817,7 +3817,8 @@
         "Action",
         "Adventure",
         "Fantasy",
-        "Science Fiction"
+        "Science Fiction",
+        "Drama"
       ],
       "imdbId": "tt1757678",
       "type": "movie",
@@ -4061,6 +4062,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
@@ -6656,6 +6661,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7404,6 +7413,10 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
@@ -7918,6 +7931,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
@@ -8650,5 +8667,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-27T09:01:25.335Z"
+  "updatedAt": "2026-07-27T14:03:46.368Z"
 }
