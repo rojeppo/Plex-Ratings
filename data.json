@@ -7033,6 +7033,10 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
             "name": "Starz Apple TV Channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           },
@@ -8675,5 +8679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T08:08:57.915Z"
+  "updatedAt": "2026-07-28T13:23:48.260Z"
 }
