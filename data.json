@@ -10,11 +10,11 @@
       "contentRating": "TV-14",
       "duration": 2400000,
       "genres": [
+        "Drama",
+        "Fantasy",
         "Animation",
         "Action",
-        "Adventure",
-        "Science Fiction",
-        "Drama"
+        "Adventure"
       ],
       "imdbId": "tt11126994",
       "type": "show",
@@ -1825,11 +1825,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
+        "Romance",
         "Drama",
-        "Mystery",
-        "Romance"
+        "Comedy",
+        "Animation",
+        "Mystery"
       ],
       "imdbId": "tt2250034",
       "type": "show",
@@ -5759,10 +5759,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6305,6 +6301,10 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
+            "name": "TCM",
+            "logo": "https://image.tmdb.org/t/p/original/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg"
+          },
+          {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
           }
@@ -6496,10 +6496,10 @@
       "duration": 7010130,
       "genres": [
         "Family",
+        "Animation",
         "Action",
         "Adventure",
-        "Animation",
-        "Science Fiction"
+        "Fantasy"
       ],
       "imdbId": "tt4633694",
       "type": "movie",
@@ -8675,5 +8675,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-31T08:26:14.620Z"
+  "updatedAt": "2026-07-31T13:23:12.468Z"
 }
