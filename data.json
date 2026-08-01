@@ -4581,10 +4581,6 @@
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
@@ -5813,7 +5809,15 @@
       "imdbId": "tt0119738",
       "type": "movie",
       "poster": "posters/5324.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US",
+        "providers": [
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5418",
@@ -6307,6 +6311,10 @@
           {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
+          },
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           }
         ]
       }
@@ -6363,6 +6371,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/1291335-solo-mio/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
+          },
           {
             "name": "Angel Studios",
             "logo": "https://image.tmdb.org/t/p/original/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
@@ -8663,5 +8675,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-01T12:47:51.605Z"
+  "updatedAt": "2026-08-01T18:46:50.218Z"
 }
