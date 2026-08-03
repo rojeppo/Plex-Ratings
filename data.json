@@ -7345,7 +7345,19 @@
       "imdbId": "tt1856101",
       "type": "movie",
       "poster": "posters/32006.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/335984-blade-runner-2049/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "11353",
@@ -8751,5 +8763,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-02T18:47:04.941Z"
+  "updatedAt": "2026-08-03T01:21:53.844Z"
 }
