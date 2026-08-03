@@ -3279,11 +3279,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
+        "Romance",
+        "Fantasy",
         "Animation",
         "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Romance"
+        "Comedy"
       ],
       "imdbId": "tt38037498",
       "type": "show",
@@ -3933,9 +3933,9 @@
       "contentRating": "G",
       "duration": 6996073,
       "genres": [
+        "Comedy",
         "Animation",
         "Adventure",
-        "Comedy",
         "Family",
         "Sport"
       ],
@@ -3962,11 +3962,11 @@
       "contentRating": "G",
       "duration": 6376552,
       "genres": [
-        "Family",
+        "Comedy",
         "Animation",
         "Adventure",
-        "Action",
-        "Comedy"
+        "Crime",
+        "Family"
       ],
       "imdbId": "tt1216475",
       "type": "movie",
@@ -3991,11 +3991,11 @@
       "contentRating": "G",
       "duration": 6145107,
       "genres": [
-        "Comedy",
+        "Family",
         "Animation",
         "Adventure",
-        "Family",
-        "Drama"
+        "Comedy",
+        "Sport"
       ],
       "imdbId": "tt3606752",
       "type": "movie",
@@ -4092,9 +4092,9 @@
       "duration": 6728838,
       "genres": [
         "Drama",
-        "Romance",
         "Comedy",
-        "Music"
+        "Music",
+        "Romance"
       ],
       "imdbId": "tt10366460",
       "type": "movie",
@@ -4275,9 +4275,9 @@
       "contentRating": "PG-13",
       "duration": 7824275,
       "genres": [
+        "Science Fiction",
         "Action",
         "Adventure",
-        "Science Fiction",
         "Drama",
         "Thriller"
       ],
@@ -4425,6 +4425,14 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -4433,7 +4441,7 @@
       "ratingKey": "2036",
       "title": "Dune: Part One",
       "year": 2021,
-      "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
       "userRating": 8,
       "studio": "Legendary Pictures",
       "contentRating": "PG-13",
@@ -4471,10 +4479,10 @@
       "contentRating": "PG",
       "duration": 6087879,
       "genres": [
+        "Family",
         "Animation",
         "Adventure",
         "Comedy",
-        "Family",
         "Fantasy"
       ],
       "imdbId": "tt15789038",
@@ -5810,7 +5818,15 @@
       "imdbId": "tt0892782",
       "type": "movie",
       "poster": "posters/5161.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/15512-monsters-vs-aliens/watch?locale=US",
+        "providers": [
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5324",
@@ -6325,10 +6341,6 @@
         "link": "https://www.themoviedb.org/movie/858-sleepless-in-seattle/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "TCM",
             "logo": "https://image.tmdb.org/t/p/original/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg"
           },
@@ -6787,6 +6799,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
+          },
+          {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
           },
           {
             "name": "Cineverse",
@@ -8763,5 +8779,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-03T08:54:07.316Z"
+  "updatedAt": "2026-08-03T14:08:21.259Z"
 }
