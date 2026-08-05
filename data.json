@@ -1084,10 +1084,10 @@
       "contentRating": "TV-PG",
       "duration": 1440000,
       "genres": [
-        "Animation",
+        "Romance",
         "Drama",
         "Comedy",
-        "Romance",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt36592690",
@@ -2065,11 +2065,11 @@
       "contentRating": "TV-14",
       "duration": 720000,
       "genres": [
+        "Fantasy",
+        "Anime",
         "Animation",
         "Comedy",
-        "Fantasy",
-        "Romance",
-        "Sci-Fi & Fantasy"
+        "Romance"
       ],
       "imdbId": "tt30970523",
       "type": "show",
@@ -4071,10 +4071,6 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -4498,10 +4494,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4629,11 +4621,11 @@
       "contentRating": "PG-13",
       "duration": 5429300,
       "genres": [
-        "Drama",
-        "Romance",
         "Anime",
-        "Science Fiction",
-        "Animation"
+        "Fantasy",
+        "Drama",
+        "Animation",
+        "Romance"
       ],
       "imdbId": "tt6317962",
       "type": "movie",
@@ -4778,11 +4770,11 @@
       "contentRating": "PG",
       "duration": 6133139,
       "genres": [
-        "Adventure",
-        "Animation",
+        "Children",
         "Family",
-        "Comedy",
-        "Fantasy"
+        "Fantasy",
+        "Animation",
+        "Adventure"
       ],
       "imdbId": "tt2294629",
       "type": "movie",
@@ -4807,11 +4799,11 @@
       "contentRating": "PG",
       "duration": 6194110,
       "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Animation",
+        "Adventure",
+        "Comedy"
       ],
       "imdbId": "tt4520988",
       "type": "movie",
@@ -4837,8 +4829,8 @@
       "duration": 5867994,
       "genres": [
         "Comedy",
-        "Drama",
         "Family",
+        "Drama",
         "Romance",
         "TV Movie"
       ],
@@ -5142,11 +5134,11 @@
       "contentRating": "PG",
       "duration": 5491581,
       "genres": [
-        "Animation",
         "Comedy",
+        "Animation",
         "Family",
-        "Thriller",
-        "Fantasy"
+        "Fantasy",
+        "Action"
       ],
       "imdbId": "tt0837562",
       "type": "movie",
@@ -5163,11 +5155,11 @@
       "contentRating": "PG",
       "duration": 5358440,
       "genres": [
-        "Animation",
         "Comedy",
-        "Family",
+        "Animation",
         "Adventure",
-        "Thriller"
+        "Family",
+        "Fantasy"
       ],
       "imdbId": "tt2510894",
       "type": "movie",
@@ -5213,10 +5205,10 @@
       "contentRating": "PG-13",
       "duration": 6884198,
       "genres": [
-        "Action",
         "Science Fiction",
+        "Thriller",
         "Mystery",
-        "Thriller"
+        "Action"
       ],
       "imdbId": "tt0343818",
       "type": "movie",
@@ -6789,10 +6781,6 @@
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           },
           {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
-          },
-          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
@@ -7381,10 +7369,6 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
             "name": "YouTube TV",
@@ -8743,5 +8727,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-05T13:28:35.723Z"
+  "updatedAt": "2026-08-05T19:08:25.868Z"
 }
