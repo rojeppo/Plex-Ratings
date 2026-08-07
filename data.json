@@ -355,11 +355,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Drama",
         "Romance",
-        "Science Fiction",
-        "Sci-Fi & Fantasy"
+        "Drama",
+        "Anime",
+        "Animation",
+        "Science Fiction"
       ],
       "imdbId": "tt30326044",
       "type": "show",
@@ -811,10 +811,10 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Drama",
         "Romance",
+        "Drama",
+        "Comedy",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt21975478",
@@ -1689,11 +1689,11 @@
       "contentRating": "TV-MA",
       "duration": 1380000,
       "genres": [
-        "Animation",
-        "Comedy",
+        "Fantasy",
+        "Adventure",
         "Anime",
-        "Action",
-        "Adventure"
+        "Animation",
+        "Action"
       ],
       "imdbId": "tt4728568",
       "type": "show",
@@ -1720,17 +1720,17 @@
       "ratingKey": "22259",
       "title": "JUJUTSU KAISEN",
       "year": 2020,
-      "summary": "After Yuji Itadori swallows a cursed talisman - the finger of a demon - he becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+      "summary": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
       "userRating": 9,
       "studio": "MAPPA",
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
         "Animation",
-        "Anime",
         "Action",
         "Adventure",
-        "Fantasy"
+        "Fantasy",
+        "Thriller"
       ],
       "imdbId": "tt12343534",
       "type": "show",
@@ -3591,9 +3591,9 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
         "Drama",
+        "Comedy",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt2963556",
@@ -5045,10 +5045,6 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
@@ -5448,9 +5444,9 @@
       "genres": [
         "Comedy",
         "Animation",
-        "Family",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Family"
       ],
       "imdbId": "tt0441773",
       "type": "movie",
@@ -5544,10 +5540,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "Cinemax Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
           }
         ]
       }
@@ -5650,11 +5642,11 @@
       "contentRating": "PG-13",
       "duration": 6897907,
       "genres": [
+        "Anime",
         "Animation",
         "Drama",
-        "Fantasy",
         "Adventure",
-        "Romance"
+        "Fantasy"
       ],
       "imdbId": "tt7339826",
       "type": "movie",
@@ -7357,10 +7349,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
           }
         ]
       }
@@ -7668,14 +7656,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "Kanopy",
-            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-          },
-          {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           },
           {
             "name": "YouTube Free",
@@ -8707,5 +8687,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-07T12:33:55.391Z"
+  "updatedAt": "2026-08-07T18:35:21.373Z"
 }
