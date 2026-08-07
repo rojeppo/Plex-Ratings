@@ -5209,10 +5209,6 @@
         "link": "https://www.themoviedb.org/movie/2048-i-robot/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
@@ -5227,10 +5223,6 @@
           {
             "name": "AMC",
             "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
-          },
-          {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           }
         ]
       }
@@ -5254,10 +5246,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
         "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
@@ -8712,10 +8700,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
           }
@@ -8723,5 +8707,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-07T06:56:10.141Z"
+  "updatedAt": "2026-08-07T12:33:55.391Z"
 }
