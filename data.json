@@ -5239,15 +5239,7 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "24225",
@@ -8687,5 +8679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-08T06:28:39.631Z"
+  "updatedAt": "2026-08-08T12:19:29.345Z"
 }
