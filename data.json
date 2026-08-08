@@ -5732,11 +5732,11 @@
       "contentRating": "G",
       "duration": 6227859,
       "genres": [
-        "Family",
-        "Animation",
         "Comedy",
-        "Fantasy",
-        "Adventure"
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
       ],
       "imdbId": "tt1453405",
       "type": "movie",
@@ -5761,11 +5761,11 @@
       "contentRating": "PG",
       "duration": 5661760,
       "genres": [
-        "Family",
+        "Comedy",
         "Animation",
         "Action",
         "Adventure",
-        "Science Fiction"
+        "Family"
       ],
       "imdbId": "tt0892782",
       "type": "movie",
@@ -5839,7 +5839,7 @@
       "ratingKey": "5467",
       "title": "Notting Hill",
       "year": 1999,
-      "summary": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+      "summary": "A famous actress falls in love with the owner of a bookstore, but the paparazzi's fascination with her complicates their bond.",
       "userRating": 9,
       "studio": "Working Title Films",
       "contentRating": "PG-13",
@@ -5864,11 +5864,11 @@
       "contentRating": "PG",
       "duration": 6141450,
       "genres": [
-        "Animation",
-        "Comedy",
         "Family",
         "Fantasy",
-        "Adventure"
+        "Animation",
+        "Adventure",
+        "Comedy"
       ],
       "imdbId": "tt7146812",
       "type": "movie",
@@ -5929,11 +5929,11 @@
       "contentRating": "PG-13",
       "duration": 5929941,
       "genres": [
+        "Science Fiction",
         "Animation",
         "Adventure",
         "Drama",
-        "Fantasy",
-        "Science Fiction"
+        "Fantasy"
       ],
       "imdbId": "tt2981768",
       "type": "movie",
@@ -8679,5 +8679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-08T12:19:29.345Z"
+  "updatedAt": "2026-08-08T18:18:23.465Z"
 }
