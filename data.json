@@ -6024,10 +6024,6 @@
         "link": "https://www.themoviedb.org/movie/18240-the-proposal/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
@@ -8679,5 +8675,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-09T06:33:42.725Z"
+  "updatedAt": "2026-08-09T12:21:05.481Z"
 }
