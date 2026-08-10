@@ -3948,6 +3948,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -3977,6 +3981,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6075,11 +6083,11 @@
       "contentRating": "PG-13",
       "duration": 6296459,
       "genres": [
+        "Science Fiction",
+        "Drama",
         "Action",
         "Adventure",
-        "Thriller",
-        "Drama",
-        "Science Fiction"
+        "Thriller"
       ],
       "imdbId": "tt1318514",
       "type": "movie",
@@ -6307,9 +6315,9 @@
       "genres": [
         "Action",
         "Adventure",
-        "Science Fiction",
-        "Thriller",
-        "Fantasy"
+        "Crime",
+        "Fantasy",
+        "Science Fiction"
       ],
       "imdbId": "tt8404256",
       "type": "movie",
@@ -6413,11 +6421,11 @@
       "contentRating": "PG",
       "duration": 6032960,
       "genres": [
-        "Animation",
         "Family",
-        "Comedy",
         "Fantasy",
-        "Adventure"
+        "Animation",
+        "Adventure",
+        "Comedy"
       ],
       "imdbId": "tt2948372",
       "type": "movie",
@@ -6747,6 +6755,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
+          },
+          {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
           },
           {
             "name": "Cineverse",
@@ -8679,5 +8691,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T12:37:27.941Z"
+  "updatedAt": "2026-08-10T18:38:41.725Z"
 }
