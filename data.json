@@ -6038,6 +6038,10 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -8691,5 +8695,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T06:41:16.567Z"
+  "updatedAt": "2026-08-11T12:34:14.964Z"
 }
