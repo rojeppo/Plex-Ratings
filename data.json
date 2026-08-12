@@ -279,10 +279,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -1029,10 +1025,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -2815,10 +2807,6 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           }
@@ -2897,10 +2885,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -3221,10 +3205,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -3940,10 +3920,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4033,10 +4009,6 @@
           {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Peacock Premium Plus",
@@ -4213,10 +4185,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4245,10 +4213,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4299,15 +4263,7 @@
       "imdbId": "tt0832266",
       "type": "movie",
       "poster": "posters/1751.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/8390-definitely-maybe/watch?locale=US",
-        "providers": [
-          {
-            "name": "YouTube Free",
-            "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "8276",
@@ -4339,10 +4295,6 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "FXNow",
@@ -4449,10 +4401,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4515,10 +4463,6 @@
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
           }
@@ -4554,10 +4498,6 @@
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
           }
@@ -4584,10 +4524,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
           {
             "name": "Netflix Standard with Ads",
             "logo": "https://image.tmdb.org/t/p/original/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
@@ -4734,10 +4670,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
@@ -4856,10 +4788,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Starz Apple TV Channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           },
@@ -4927,10 +4855,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Xumo Play",
@@ -5045,10 +4969,6 @@
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
           }
@@ -5082,10 +5002,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -5209,10 +5125,6 @@
             "logo": "https://image.tmdb.org/t/p/original/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "AMC",
             "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
           }
@@ -5265,10 +5177,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Starz",
@@ -5526,15 +5434,7 @@
       "imdbId": "tt1055292",
       "type": "movie",
       "poster": "posters/4470.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/38408-life-as-we-know-it/watch?locale=US",
-        "providers": [
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "4585",
@@ -5645,10 +5545,6 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Shout! Factory Amazon Channel",
@@ -6053,10 +5949,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -6140,10 +6032,6 @@
         "link": "https://www.themoviedb.org/movie/5175-rush-hour-2/watch?locale=US",
         "providers": [
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
@@ -6177,10 +6065,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Kanopy",
@@ -6581,10 +6465,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Cinemax Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
           }
@@ -6747,10 +6627,6 @@
           {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           },
           {
             "name": "Tubi TV",
@@ -6962,10 +6838,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -6995,6 +6867,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7023,10 +6899,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Starz Apple TV Channel",
@@ -7145,10 +7017,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -7325,10 +7193,6 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -7360,10 +7224,6 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -7624,10 +7484,6 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "YouTube Free",
@@ -8155,10 +8011,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -8295,10 +8147,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Starz",
@@ -8643,5 +8491,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-12T12:37:02.431Z"
+  "updatedAt": "2026-08-12T18:43:05.636Z"
 }
