@@ -687,10 +687,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -863,10 +859,6 @@
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -3875,11 +3867,11 @@
       "contentRating": "PG",
       "duration": 6007061,
       "genres": [
+        "Comedy",
         "Animation",
         "Adventure",
-        "Action",
-        "Comedy",
-        "Crime"
+        "Crime",
+        "Family"
       ],
       "imdbId": "tt8115900",
       "type": "movie",
@@ -3981,10 +3973,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4141,10 +4129,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4172,10 +4156,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4190,11 +4170,11 @@
       "contentRating": "PG-13",
       "duration": 8009839,
       "genres": [
-        "Drama",
-        "Romance",
         "Science Fiction",
-        "Thriller",
-        "Action"
+        "Drama",
+        "Action",
+        "Adventure",
+        "Thriller"
       ],
       "imdbId": "tt11858890",
       "type": "movie",
@@ -4219,10 +4199,10 @@
       "contentRating": "PG-13",
       "duration": 9133395,
       "genres": [
-        "Drama",
         "Action",
         "Crime",
-        "Thriller"
+        "Thriller",
+        "Drama"
       ],
       "imdbId": "tt0468569",
       "type": "movie",
@@ -4252,8 +4232,8 @@
       "duration": 9873960,
       "genres": [
         "Action",
-        "Crime",
         "Drama",
+        "Crime",
         "Thriller"
       ],
       "imdbId": "tt1345836",
@@ -4433,10 +4413,6 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "FXNow",
@@ -4936,11 +4912,11 @@
       "contentRating": "PG-13",
       "duration": 5940442,
       "genres": [
+        "Anime",
         "Fantasy",
-        "Animation",
-        "Drama",
         "Science Fiction",
-        "Comedy"
+        "Animation",
+        "Adventure"
       ],
       "imdbId": "tt0808506",
       "type": "movie",
@@ -5440,6 +5416,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5605,10 +5585,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Cinemax Amazon Channel",
@@ -5929,10 +5905,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Starz Apple TV Channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           }
@@ -6050,6 +6022,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "Apple TV Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
           }
         ]
       }
@@ -6135,10 +6111,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/2109-rush-hour/watch?locale=US",
         "providers": [
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
@@ -6532,11 +6504,11 @@
       "contentRating": "PG",
       "duration": 6105748,
       "genres": [
+        "Children",
+        "Family",
         "Animation",
         "Action",
-        "Adventure",
-        "Comedy",
-        "Family"
+        "Adventure"
       ],
       "imdbId": "tt10298840",
       "type": "movie",
@@ -6658,11 +6630,11 @@
       "contentRating": "PG",
       "duration": 6017322,
       "genres": [
-        "Comedy",
-        "Animation",
+        "Children",
         "Family",
-        "Fantasy",
-        "Musical"
+        "Animation",
+        "Adventure",
+        "Comedy"
       ],
       "imdbId": "tt0398286",
       "type": "movie",
@@ -6683,13 +6655,13 @@
       "year": 2014,
       "summary": "Darkness has settled over New York City as Shredder and his evil Foot Clan have an iron grip on everything from the police to the politicians. The future is grim until four unlikely outcast brothers rise from the sewers and discover their destiny as Teenage Mutant Ninja Turtles. The Turtles must work with fearless reporter April O'Neil and her cameraman Vern Fenwick to save the city and unravel Shredder's diabolical plan.",
       "userRating": 8,
-      "studio": "Nickelodeon Movies",
+      "studio": "Platinum Dunes",
       "contentRating": "PG-13",
       "duration": 6078099,
       "genres": [
         "Action",
         "Adventure",
-        "Science Fiction",
+        "Family",
         "Comedy",
         "Crime"
       ],
@@ -6897,10 +6869,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Hoopla",
@@ -7270,10 +7238,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
@@ -7449,10 +7413,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           },
@@ -7555,10 +7515,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Fandor Amazon Channel",
@@ -7702,10 +7658,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
             "name": "Pluto TV",
@@ -7960,10 +7912,6 @@
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
           },
@@ -8174,10 +8122,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
-          },
-          {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -8466,10 +8410,6 @@
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
           },
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
             "name": "Cinemax Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
           }
@@ -8703,5 +8643,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-12T07:01:48.907Z"
+  "updatedAt": "2026-08-12T12:37:02.431Z"
 }
