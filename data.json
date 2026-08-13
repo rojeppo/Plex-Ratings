@@ -7102,6 +7102,10 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
@@ -7562,6 +7566,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "name": "Lionsgate+ Amazon Channels",
+            "logo": "https://image.tmdb.org/t/p/original/o4OqlMLb3ZjhK7OwR4qvxiZKOXf.jpg"
           },
           {
             "name": "Kanopy",
@@ -8487,5 +8495,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-13T07:06:05.928Z"
+  "updatedAt": "2026-08-13T12:37:48.449Z"
 }
