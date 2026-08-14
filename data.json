@@ -5163,7 +5163,15 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "24225",
@@ -5340,10 +5348,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6584,11 +6588,11 @@
       "contentRating": "PG-13",
       "duration": 6400467,
       "genres": [
-        "Animation",
-        "Romance",
         "Science Fiction",
+        "Anime",
         "Drama",
-        "Anime"
+        "Animation",
+        "Romance"
       ],
       "imdbId": "tt1715210",
       "type": "movie",
@@ -6662,9 +6666,9 @@
       "duration": 5643477,
       "genres": [
         "Action",
+        "Thriller",
         "Crime",
-        "Drama",
-        "Thriller"
+        "Drama"
       ],
       "imdbId": "tt2401097",
       "type": "movie",
@@ -8531,5 +8535,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-14T07:02:09.631Z"
+  "updatedAt": "2026-08-14T12:33:53.728Z"
 }
