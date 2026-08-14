@@ -783,8 +783,8 @@
             "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -3231,8 +3231,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -4636,6 +4636,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/43949-flipped/watch?locale=US",
         "providers": [
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
+          },
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
@@ -6649,6 +6653,10 @@
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
           {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
+          },
+          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
@@ -6679,6 +6687,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
           },
           {
             "name": "Fawesome",
@@ -6887,10 +6899,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7344,6 +7352,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8106,6 +8118,10 @@
         "link": "https://www.themoviedb.org/movie/2355-reign-over-me/watch?locale=US",
         "providers": [
           {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
@@ -8234,6 +8250,10 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          },
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
           },
           {
             "name": "The CW",
@@ -8535,5 +8555,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-14T12:33:53.728Z"
+  "updatedAt": "2026-08-14T18:37:20.273Z"
 }
