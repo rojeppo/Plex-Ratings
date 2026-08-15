@@ -994,8 +994,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "HiDive",
-            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
+            "name": "Hidive Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
           }
         ]
       }
@@ -3522,8 +3522,8 @@
             "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           },
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -6612,10 +6612,6 @@
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
           },
@@ -8562,5 +8558,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-15T12:12:04.652Z"
+  "updatedAt": "2026-08-15T18:09:48.026Z"
 }
