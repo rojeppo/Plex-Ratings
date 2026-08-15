@@ -114,7 +114,15 @@
       "imdbId": "tt13718450",
       "type": "show",
       "poster": "posters/16596.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/100565/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "26884",
@@ -8555,5 +8563,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-14T18:37:20.273Z"
+  "updatedAt": "2026-08-15T00:27:05.079Z"
 }
