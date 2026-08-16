@@ -118,8 +118,8 @@
         "link": "https://www.themoviedb.org/tv/100565/watch?locale=US",
         "providers": [
           {
-            "name": "Crunchyroll Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
           }
         ]
       }
@@ -3599,8 +3599,8 @@
         "link": "https://www.themoviedb.org/tv/116168/watch?locale=US",
         "providers": [
           {
-            "name": "Hidive Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/bpA0pUd1LqMJOPwdbUIdUPfP3gE.jpg"
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
         ]
       }
@@ -8558,5 +8558,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-15T18:09:48.026Z"
+  "updatedAt": "2026-08-16T00:28:06.776Z"
 }
