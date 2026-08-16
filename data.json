@@ -1646,9 +1646,9 @@
       "genres": [
         "Romance",
         "Drama",
-        "Anime",
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Anime"
       ],
       "imdbId": "tt26450257",
       "type": "show",
@@ -1757,9 +1757,9 @@
       "genres": [
         "Comedy",
         "Anime",
+        "Drama",
         "Romance",
-        "Animation",
-        "Drama"
+        "Animation"
       ],
       "imdbId": "tt9522300",
       "type": "show",
@@ -1785,9 +1785,9 @@
       "duration": 1440000,
       "genres": [
         "Animation",
-        "Science Fiction",
         "Action",
         "Adventure",
+        "Science Fiction",
         "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt21975436",
@@ -1836,9 +1836,9 @@
       "genres": [
         "Comedy",
         "Fantasy",
-        "Anime",
         "Animation",
-        "Adventure"
+        "Adventure",
+        "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt5370118",
       "type": "show",
@@ -1991,11 +1991,11 @@
       "contentRating": "TV-PG",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
         "Romance",
-        "Anime",
-        "Drama"
+        "Drama",
+        "Comedy",
+        "Animation",
+        "Anime"
       ],
       "imdbId": "tt1587394",
       "type": "show",
@@ -2082,9 +2082,9 @@
       "contentRating": "TV-14",
       "duration": 1500000,
       "genres": [
-        "Animation",
-        "Comedy",
         "Romance",
+        "Comedy",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt1634208",
@@ -2110,10 +2110,10 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
         "Romance",
+        "Comedy",
         "Drama",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt32332831",
@@ -2300,10 +2300,10 @@
       "duration": 1440000,
       "genres": [
         "Animation",
-        "Anime",
         "Action",
         "Adventure",
-        "Drama"
+        "Drama",
+        "Fantasy"
       ],
       "imdbId": "tt13293588",
       "type": "show",
@@ -2451,10 +2451,10 @@
       "duration": 1440000,
       "genres": [
         "Animation",
-        "Anime",
         "Action",
         "Adventure",
-        "Fantasy"
+        "Science Fiction",
+        "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt5626028",
       "type": "show",
@@ -2580,11 +2580,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Romance",
         "Comedy",
-        "Anime",
         "Animation",
-        "Drama"
+        "Drama",
+        "Romance",
+        "Anime"
       ],
       "imdbId": "tt15192340",
       "type": "show",
@@ -2699,10 +2699,10 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
         "Comedy",
-        "Anime",
         "Action",
+        "Anime",
+        "Animation",
         "Fantasy"
       ],
       "imdbId": "tt4508902",
@@ -2827,9 +2827,9 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
+        "Romance",
         "Drama",
-        "Romance"
+        "Animation"
       ],
       "imdbId": "tt2309312",
       "type": "show",
@@ -3104,10 +3104,10 @@
       "duration": 1440000,
       "genres": [
         "Animation",
-        "Action",
         "Science Fiction",
-        "Adventure",
-        "Anime"
+        "Anime",
+        "Action",
+        "Adventure"
       ],
       "imdbId": "tt8747928",
       "type": "show",
@@ -3415,10 +3415,10 @@
       "contentRating": "TV-PG",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Drama",
         "Romance",
-        "Anime"
+        "Drama",
+        "Anime",
+        "Animation"
       ],
       "imdbId": "tt6472710",
       "type": "show",
@@ -4442,6 +4442,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5174,15 +5178,7 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "24225",
@@ -5670,6 +5666,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5926,7 +5926,7 @@
       "ratingKey": "26257",
       "title": "The Proposal",
       "year": 2009,
-      "summary": "When New York editor Margaret faces deportation, she convinces her assistant Andrew to marry her in return for a promotion. However, when she visits his hometown, it changes her in many ways.",
+      "summary": "A New York editor facing deportation convinces her assistant to marry her in return for a promotion, but a visit to his hometown changes her in many ways.",
       "userRating": 8,
       "studio": "Touchstone Pictures",
       "contentRating": "PG-13",
@@ -7663,6 +7663,10 @@
         "link": "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo/watch?locale=US",
         "providers": [
           {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
@@ -8554,5 +8558,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-16T12:12:17.190Z"
+  "updatedAt": "2026-08-16T18:10:23.808Z"
 }
