@@ -385,10 +385,10 @@
       "duration": 1440000,
       "genres": [
         "Action",
-        "Animation",
         "Adventure",
         "Drama",
-        "Fantasy"
+        "Fantasy",
+        "Animation"
       ],
       "imdbId": "tt2560140",
       "type": "show",
@@ -3075,10 +3075,10 @@
       "duration": 1440000,
       "genres": [
         "Drama",
-        "Music",
-        "Anime",
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Music",
+        "Anime"
       ],
       "imdbId": "tt4384306",
       "type": "show",
@@ -3132,10 +3132,10 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Fantasy",
         "Romance",
+        "Comedy",
+        "Animation",
+        "Fantasy",
         "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt31975268",
@@ -3192,9 +3192,9 @@
       "genres": [
         "Action",
         "Adventure",
-        "Anime",
         "Animation",
-        "Drama"
+        "Drama",
+        "Fantasy"
       ],
       "imdbId": "tt2250192",
       "type": "show",
@@ -3464,11 +3464,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
         "Comedy",
-        "Anime",
+        "Animation",
         "Drama",
-        "Romance"
+        "Romance",
+        "Anime"
       ],
       "imdbId": "tt12464182",
       "type": "show",
@@ -5146,10 +5146,6 @@
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
-            "name": "AMC+ Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
           },
           {
             "name": "YouTube TV",
@@ -7444,10 +7440,6 @@
             "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           },
           {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
-          },
-          {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg"
           },
@@ -8414,7 +8406,15 @@
       "imdbId": "tt1142988",
       "type": "movie",
       "poster": "posters/13391.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/20943-the-ugly-truth/watch?locale=US",
+        "providers": [
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "13474",
@@ -8558,5 +8558,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-17T12:15:55.655Z"
+  "updatedAt": "2026-08-17T18:19:11.005Z"
 }
