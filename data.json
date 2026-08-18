@@ -4185,6 +4185,10 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -8558,5 +8562,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-18T06:19:52.023Z"
+  "updatedAt": "2026-08-18T12:17:53.168Z"
 }
