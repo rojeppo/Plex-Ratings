@@ -4462,10 +4462,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4836,7 +4832,7 @@
             "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
-            "name": "Starz Apple TV Channel",
+            "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           },
           {
@@ -5698,10 +5694,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5864,7 +5856,7 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "name": "Starz Apple TV Channel",
+            "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           }
         ]
@@ -6968,7 +6960,7 @@
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "name": "Starz Apple TV Channel",
+            "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           }
         ]
@@ -7861,10 +7853,6 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
-          },
-          {
-            "name": "Fawesome",
-            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
           }
         ]
       }
@@ -8042,7 +8030,15 @@
       "imdbId": "tt0120772",
       "type": "movie",
       "poster": "posters/13298.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/17127-the-object-of-my-affection/watch?locale=US",
+        "providers": [
+          {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "12291",
@@ -8598,5 +8594,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-19T12:17:41.709Z"
+  "updatedAt": "2026-08-19T18:14:47.289Z"
 }
