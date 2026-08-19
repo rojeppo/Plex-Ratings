@@ -4217,6 +4217,10 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
         ]
       }
@@ -4417,6 +4421,18 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "TNT",
+            "logo": "https://image.tmdb.org/t/p/original/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg"
+          },
+          {
+            "name": "TBS",
+            "logo": "https://image.tmdb.org/t/p/original/cZvP3XsDKlHFhNIyHYCVPStXT5l.jpg"
+          },
+          {
+            "name": "tru TV",
+            "logo": "https://image.tmdb.org/t/p/original/mMJ6AQUpHDsD5s2Q2dnbpX1NFwp.jpg"
           }
         ]
       }
@@ -5428,7 +5444,7 @@
         "link": "https://www.themoviedb.org/movie/25195-leap-year/watch?locale=US",
         "providers": [
           {
-            "name": "Starz Apple TV Channel",
+            "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
           }
         ]
@@ -5932,7 +5948,7 @@
         "link": "https://www.themoviedb.org/movie/4348-pride-prejudice/watch?locale=US",
         "providers": [
           {
-            "name": "Britbox Apple TV Channel ",
+            "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/bzEv2wssRqVgl12IVBfYhCIvvG.jpg"
           }
         ]
@@ -8582,5 +8598,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-19T06:20:39.380Z"
+  "updatedAt": "2026-08-19T12:17:41.709Z"
 }
