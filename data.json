@@ -4899,10 +4899,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg"
           }
         ]
       }
@@ -5226,6 +5222,10 @@
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
           },
@@ -5344,15 +5344,7 @@
       "imdbId": "tt4916630",
       "type": "movie",
       "poster": "posters/4176.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/522212-just-mercy/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "8925",
@@ -7640,7 +7632,7 @@
           },
           {
             "name": "Lionsgate+ Amazon Channels",
-            "logo": "https://image.tmdb.org/t/p/original/o4OqlMLb3ZjhK7OwR4qvxiZKOXf.jpg"
+            "logo": "https://image.tmdb.org/t/p/original/b2WtG0iyi7UcJ6tqFDTgQjVrYSY.jpg"
           },
           {
             "name": "Kanopy",
@@ -8590,5 +8582,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-20T12:19:41.053Z"
+  "updatedAt": "2026-08-20T18:18:55.818Z"
 }
