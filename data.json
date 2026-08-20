@@ -6676,10 +6676,6 @@
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           },
           {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
-          },
-          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
@@ -7534,7 +7530,7 @@
       "ratingKey": "11637",
       "title": "Everything Everywhere All at Once",
       "year": 2022,
-      "summary": "Having moved from China, a middle-aged woman finds herself entangled in a wild journey. She alone holds the key to preserving reality, as she traverses alternate universes and encounters the various lives she might have lived.",
+      "summary": "When an interdimensional rupture unravels reality, an immigrant mother & unlikely hero must fight through the infinite multiverse to save the world.",
       "userRating": 6,
       "studio": "IAC Films",
       "contentRating": "R",
@@ -8594,5 +8590,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-20T06:21:40.311Z"
+  "updatedAt": "2026-08-20T12:19:41.053Z"
 }
