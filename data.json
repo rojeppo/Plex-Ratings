@@ -6668,6 +6668,10 @@
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           },
           {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
+          },
+          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
@@ -8582,5 +8586,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-21T12:19:03.076Z"
+  "updatedAt": "2026-08-21T18:18:14.336Z"
 }
