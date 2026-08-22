@@ -787,10 +787,6 @@
         "link": "https://www.themoviedb.org/tv/207250/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
-          },
-          {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg"
           }
@@ -5363,10 +5359,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6624,6 +6616,10 @@
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
           {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
           },
@@ -6981,10 +6977,6 @@
             "logo": "https://image.tmdb.org/t/p/original/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg"
           },
           {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/cZvP3XsDKlHFhNIyHYCVPStXT5l.jpg"
-          },
-          {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/mMJ6AQUpHDsD5s2Q2dnbpX1NFwp.jpg"
           }
@@ -7240,6 +7232,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
             "name": "YouTube TV",
@@ -8578,5 +8574,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-22T12:12:45.121Z"
+  "updatedAt": "2026-08-22T18:10:37.927Z"
 }
