@@ -4921,15 +4921,7 @@
       "imdbId": "tt5034838",
       "type": "movie",
       "poster": "posters/2829.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/399566-godzilla-vs-kong/watch?locale=US",
-        "providers": [
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/cZvP3XsDKlHFhNIyHYCVPStXT5l.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "8436",
@@ -8586,5 +8578,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-22T06:17:17.525Z"
+  "updatedAt": "2026-08-22T12:12:45.121Z"
 }
