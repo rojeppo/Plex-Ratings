@@ -4035,6 +4035,10 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -4708,10 +4712,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
         ]
       }
@@ -6556,10 +6556,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6971,14 +6967,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/mMJ6AQUpHDsD5s2Q2dnbpX1NFwp.jpg"
           }
         ]
       }
@@ -7562,10 +7550,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
         "providers": [
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
@@ -8574,5 +8558,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-23T12:12:50.859Z"
+  "updatedAt": "2026-08-23T18:10:32.243Z"
 }
