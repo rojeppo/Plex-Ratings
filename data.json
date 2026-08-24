@@ -3837,6 +3837,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -4565,8 +4569,8 @@
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix Standard with Ads",
-            "logo": "https://image.tmdb.org/t/p/original/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           }
         ]
       }
@@ -4745,6 +4749,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -5367,6 +5375,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7791,6 +7803,10 @@
         "link": "https://www.themoviedb.org/movie/576845-last-night-in-soho/watch?locale=US",
         "providers": [
           {
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
             "name": "Amazon Prime Video Free with Ads",
             "logo": "https://image.tmdb.org/t/p/original/gZlCYHPx9a0TRUCEeTvHXBf9ibX.jpg"
           }
@@ -8566,5 +8582,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-24T12:19:57.958Z"
+  "updatedAt": "2026-08-24T18:20:24.509Z"
 }
