@@ -10,11 +10,11 @@
       "contentRating": "TV-14",
       "duration": 2400000,
       "genres": [
-        "Drama",
-        "Fantasy",
         "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Drama",
+        "Fantasy"
       ],
       "imdbId": "tt11126994",
       "type": "show",
@@ -5190,15 +5190,7 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "24225",
@@ -5379,10 +5371,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -8582,5 +8570,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-30T10:46:26.107Z"
+  "updatedAt": "2026-08-30T15:31:59.672Z"
 }
