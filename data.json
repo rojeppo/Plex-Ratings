@@ -6624,10 +6624,6 @@
         "link": "https://www.themoviedb.org/movie/234284/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-          },
-          {
             "name": "Night Flight Plus",
             "logo": "https://image.tmdb.org/t/p/original/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg"
           },
@@ -8570,5 +8566,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-30T15:31:59.672Z"
+  "updatedAt": "2026-08-30T20:09:03.990Z"
 }
