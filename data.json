@@ -8469,6 +8469,10 @@
             "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
+            "name": "Fawesome",
+            "logo": "https://image.tmdb.org/t/p/original/pSUa7lMYLoQAU00ikXoHxmOfTZ9.jpg"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg"
           },
@@ -8578,5 +8582,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-30T01:51:34.526Z"
+  "updatedAt": "2026-08-30T10:46:26.107Z"
 }
