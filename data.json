@@ -4045,10 +4045,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-          },
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           }
         ]
       }
@@ -5344,7 +5340,15 @@
       "imdbId": "tt4916630",
       "type": "movie",
       "poster": "posters/4176.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/522212-just-mercy/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "8925",
@@ -5371,6 +5375,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7359,10 +7367,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7697,10 +7701,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-          },
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           }
         ]
       }
@@ -8498,10 +8498,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-          },
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           }
         ]
       }
@@ -8570,5 +8566,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-31T11:55:34.884Z"
+  "updatedAt": "2026-08-31T18:15:32.317Z"
 }
