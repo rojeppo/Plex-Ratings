@@ -4381,10 +4381,6 @@
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           }
@@ -4756,6 +4752,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           }
         ]
       }
@@ -5423,10 +5423,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -7013,7 +7009,15 @@
       "imdbId": "tt8688634",
       "type": "movie",
       "poster": "posters/10834.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/535292-21-bridges/watch?locale=US",
+        "providers": [
+          {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "10892",
@@ -7121,10 +7125,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           },
           {
             "name": "Paramount Plus Premium",
@@ -7356,12 +7356,16 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg"
           },
           {
-            "name": "AMC+ Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/gAGrSQCTAisxy2CsWbijVvJEnRo.jpg"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
+          },
+          {
+            "name": "AMC+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg"
           },
           {
             "name": "YouTube TV",
@@ -7370,6 +7374,14 @@
           {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
+          },
+          {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
           },
           {
             "name": "YouTube Free",
@@ -8311,6 +8323,10 @@
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
           },
           {
+            "name": "Shout! Factory Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/ivRp15loTWoVy3eEHALoYEyXI8J.jpg"
+          },
+          {
             "name": "Howdy Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
           },
@@ -8622,5 +8638,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-02T15:24:50.471Z"
+  "updatedAt": "2026-09-02T20:10:40.152Z"
 }
