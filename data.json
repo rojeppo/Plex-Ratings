@@ -4047,6 +4047,10 @@
             "logo": "https://image.tmdb.org/t/p/original/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg"
           },
           {
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
+          },
+          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
           },
@@ -8642,5 +8646,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T15:17:50.578Z"
+  "updatedAt": "2026-09-03T20:11:42.569Z"
 }
