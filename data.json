@@ -1097,8 +1097,8 @@
       "contentRating": "TV-14",
       "duration": 1500000,
       "genres": [
-        "Animation",
         "Drama",
+        "Animation",
         "Adventure",
         "Comedy",
         "Fantasy"
@@ -5388,15 +5388,7 @@
       "imdbId": "tt4916630",
       "type": "movie",
       "poster": "posters/4176.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/522212-just-mercy/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "8925",
@@ -5456,6 +5448,10 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -5734,10 +5730,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg"
           }
         ]
       }
@@ -6244,10 +6236,6 @@
             "logo": "https://image.tmdb.org/t/p/original/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
           },
           {
-            "name": "TCM",
-            "logo": "https://image.tmdb.org/t/p/original/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg"
-          },
-          {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
           },
@@ -6704,10 +6692,6 @@
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
           },
           {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/eUBxtrqO26wAJfYOZJOzhQEo3mm.jpg"
-          },
-          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
           },
@@ -7015,6 +6999,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -7376,6 +7364,14 @@
             "logo": "https://image.tmdb.org/t/p/original/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg"
           },
           {
+            "name": "AMC",
+            "logo": "https://image.tmdb.org/t/p/original/92Kx25Od0habmgRBTqT6XWgwgKt.jpg"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/drPlq5beqXtBaP7MNs8W616YRhm.jpg"
+          },
+          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
           },
@@ -7386,6 +7382,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/zLYr7OPvpskMA4S79E3vlCi71iC.jpg"
           }
         ]
       }
@@ -7757,6 +7757,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+          },
+          {
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg"
           },
           {
             "name": "Kanopy",
@@ -8638,5 +8642,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T10:11:11.938Z"
+  "updatedAt": "2026-09-03T15:17:50.578Z"
 }
