@@ -2050,10 +2050,10 @@
       "duration": 720000,
       "genres": [
         "Fantasy",
-        "Anime",
         "Animation",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt30970523",
       "type": "show",
@@ -5250,6 +5250,10 @@
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+          },
+          {
             "name": "AMC+",
             "logo": "https://image.tmdb.org/t/p/original/wsCUflcmL4dCkzBUaGP8cj1cTkh.png"
           },
@@ -5990,10 +5994,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/18240-the-proposal/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
@@ -8642,5 +8642,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-05T09:31:04.215Z"
+  "updatedAt": "2026-09-05T14:03:24.623Z"
 }
