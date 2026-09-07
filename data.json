@@ -357,9 +357,9 @@
       "genres": [
         "Romance",
         "Drama",
-        "Anime",
         "Animation",
-        "Science Fiction"
+        "Science Fiction",
+        "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt30326044",
       "type": "show",
@@ -622,10 +622,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/67154/watch?locale=US",
         "providers": [
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
@@ -1707,7 +1703,7 @@
       "summary": "After swallowing a cursed relic, kindhearted teenager Yuji Itadori becomes host to the King of Curses and joins a secret school of sorcerers battling monsters born from humanity's darkest emotions.",
       "userRating": 9,
       "studio": "MAPPA",
-      "contentRating": "TV-14",
+      "contentRating": "TV-MA",
       "duration": 1440000,
       "genres": [
         "Animation",
@@ -3990,6 +3986,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -4065,10 +4065,6 @@
           {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
-          },
-          {
-            "name": "Kanopy",
-            "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           }
         ]
       }
@@ -4459,16 +4455,8 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
-          },
-          {
             "name": "TBS",
             "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -5262,8 +5250,8 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Apple TV channel",
+            "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           },
           {
             "name": "Kanopy",
@@ -5611,7 +5599,7 @@
       "ratingKey": "4689",
       "title": "Maquia: When the Promised Flower Blooms",
       "year": 2018,
-      "summary": "Fleeing the war, the immortal Machia, graced with eternal youth, finds a baby abandoned in the forest and decides to raise it as her own child, sparking a moving story between a mortal and a being who does not age.",
+      "summary": "Fleeing the war, the immortal Maquia, graced with eternal youth, finds a baby abandoned in the forest and decides to raise it as her own child, sparking a moving story between a mortal and a being who does not age.",
       "userRating": 8,
       "studio": "P.A.WORKS",
       "contentRating": "PG-13",
@@ -6118,8 +6106,8 @@
         "link": "https://www.themoviedb.org/movie/9778-serendipity/watch?locale=US",
         "providers": [
           {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            "name": "Paramount Plus Essential",
+            "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
           },
           {
             "name": "Kanopy",
@@ -7360,10 +7348,6 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
-          },
-          {
             "name": "AMC",
             "logo": "https://image.tmdb.org/t/p/original/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png"
           },
@@ -7444,6 +7428,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/64690-drive/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "Xumo Play",
             "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
@@ -8642,5 +8630,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-07T10:48:59.254Z"
+  "updatedAt": "2026-09-07T16:42:52.166Z"
 }
