@@ -4359,10 +4359,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           }
         ]
       }
@@ -4419,10 +4415,6 @@
         "link": "https://www.themoviedb.org/movie/9472-dodgeball-a-true-underdog-story/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
-          {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
@@ -4433,10 +4425,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           }
         ]
       }
@@ -7127,8 +7115,8 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            "name": "Paramount Plus Essential",
+            "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
           },
           {
             "name": "Kanopy",
@@ -8654,5 +8642,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-07T01:24:49.188Z"
+  "updatedAt": "2026-09-07T10:48:59.254Z"
 }
