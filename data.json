@@ -5170,10 +5170,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "AMC",
-            "logo": "https://image.tmdb.org/t/p/original/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png"
           }
         ]
       }
@@ -7371,10 +7367,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8547,15 +8539,7 @@
       "imdbId": "tt0098635",
       "type": "movie",
       "poster": "posters/13495.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/639-when-harry-met-sally/watch?locale=US",
-        "providers": [
-          {
-            "name": "YouTube Free",
-            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "13528",
@@ -8594,5 +8578,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-08T15:26:04.858Z"
+  "updatedAt": "2026-09-08T20:22:38.086Z"
 }
