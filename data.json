@@ -4915,10 +4915,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
           }
         ]
       }
@@ -6157,15 +6153,7 @@
       "imdbId": "tt1074638",
       "type": "movie",
       "poster": "posters/6721.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=US",
-        "providers": [
-          {
-            "name": "MGM Plus Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/surh9i8VYeeq9186fKHnUg5Q5dg.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "6791",
@@ -6206,10 +6194,6 @@
           {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
-          },
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           }
         ]
       }
@@ -6976,10 +6960,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/535292-21-bridges/watch?locale=US",
         "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
@@ -8112,10 +8092,6 @@
         "link": "https://www.themoviedb.org/movie/16619-ordinary-people/watch?locale=US",
         "providers": [
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
-          },
-          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           },
@@ -8432,10 +8408,6 @@
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          },
-          {
             "name": "DistroTV",
             "logo": "https://image.tmdb.org/t/p/original/theOpF1b4doC39xCrPT5IOEsClp.png"
           },
@@ -8622,5 +8594,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-08T10:08:54.622Z"
+  "updatedAt": "2026-09-08T15:26:04.858Z"
 }
