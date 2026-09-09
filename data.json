@@ -4039,10 +4039,6 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
@@ -4257,6 +4253,10 @@
           {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
+          },
+          {
+            "name": "DC Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/mNpEftvWICfa94sxzdGegPkBmCn.png"
           }
         ]
       }
@@ -6073,7 +6073,7 @@
       "ratingKey": "6586",
       "title": "Serendipity",
       "year": 2001,
-      "summary": "Although strangers Sara and Jonathan are both already in relationships, they realize they have genuine chemistry after a chance encounter – but part company soon after. Years later, they each yearn to reunite, despite being destined for the altar. But to give true love a chance, they have to find one another again.",
+      "summary": "Although already in relationships, two strangers realize they have genuine chemistry after a chance encounter – but part company soon after. Years later, they each yearn to reunite, despite being destined for the altar. But to give true love a chance, they have to find one another again.",
       "userRating": 5,
       "studio": "Tapestry Films",
       "contentRating": "PG-13",
@@ -6894,10 +6894,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7392,10 +7388,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/64690-drive/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
           {
             "name": "Xumo Play",
             "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
@@ -8582,5 +8574,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T10:11:33.935Z"
+  "updatedAt": "2026-09-09T15:23:06.651Z"
 }
