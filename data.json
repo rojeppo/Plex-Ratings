@@ -4209,6 +4209,10 @@
           {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
+          },
+          {
+            "name": "DC Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/mNpEftvWICfa94sxzdGegPkBmCn.png"
           }
         ]
       }
@@ -5091,7 +5095,15 @@
       "imdbId": "tt0837562",
       "type": "movie",
       "poster": "posters/3365.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/76492-hotel-transylvania/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount+ Roku Premium Channel",
+            "logo": "https://image.tmdb.org/t/p/original/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "3358",
@@ -5166,6 +5178,10 @@
           {
             "name": "Apple TV",
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "YouTube TV",
@@ -6682,6 +6698,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "Howdy Amazon Channel",
@@ -8574,5 +8594,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T15:23:06.651Z"
+  "updatedAt": "2026-09-09T20:05:53.394Z"
 }
