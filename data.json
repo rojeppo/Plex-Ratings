@@ -4209,10 +4209,6 @@
           {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
-          },
-          {
-            "name": "DC Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/mNpEftvWICfa94sxzdGegPkBmCn.png"
           }
         ]
       }
@@ -4449,10 +4445,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
           }
         ]
       }
@@ -8594,5 +8586,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-10T10:06:48.953Z"
+  "updatedAt": "2026-09-10T15:16:54.909Z"
 }
