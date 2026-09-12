@@ -3970,10 +3970,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -5166,10 +5162,6 @@
           {
             "name": "Apple TV",
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "YouTube TV",
@@ -6552,6 +6544,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6682,10 +6678,6 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "Howdy Amazon Channel",
@@ -8578,5 +8570,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-12T14:27:07.571Z"
+  "updatedAt": "2026-09-12T19:43:26.399Z"
 }
