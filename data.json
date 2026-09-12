@@ -5085,6 +5085,10 @@
           {
             "name": "Paramount+ Roku Premium Channel",
             "logo": "https://image.tmdb.org/t/p/original/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -6648,10 +6652,6 @@
             "logo": "https://image.tmdb.org/t/p/original/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -7367,6 +7367,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8574,5 +8578,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-12T09:39:55.363Z"
+  "updatedAt": "2026-09-12T14:27:07.571Z"
 }
