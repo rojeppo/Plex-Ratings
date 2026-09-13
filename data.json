@@ -5938,6 +5938,10 @@
           {
             "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/r5LXOt96llVEmgwAQeheJuxUaMR.png"
+          },
+          {
+            "name": "BYUtv",
+            "logo": "https://image.tmdb.org/t/p/original/nIlP6X2QcJbnXA5Tm4hrsKsniAP.png"
           }
         ]
       }
@@ -7831,7 +7835,15 @@
       "imdbId": "tt1189340",
       "type": "movie",
       "poster": "posters/13193.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "12138",
@@ -8570,5 +8582,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-13T10:41:08.781Z"
+  "updatedAt": "2026-09-13T15:08:19.196Z"
 }
