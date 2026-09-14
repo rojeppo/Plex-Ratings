@@ -597,6 +597,39 @@
       }
     },
     {
+      "ratingKey": "21863",
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "summary": "Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.",
+      "userRating": 7,
+      "studio": "MAPPA",
+      "contentRating": "18+",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Fantasy",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdbId": "tt13616990",
+      "type": "show",
+      "poster": "posters/21863.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/114410/watch?locale=US",
+        "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "31198",
       "title": "Chivalry of a Failed Knight",
       "year": 2015,
@@ -5694,6 +5727,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6548,10 +6585,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7363,10 +7396,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8582,5 +8611,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-14T01:50:23.786Z"
+  "updatedAt": "2026-09-14T17:05:44.399Z"
 }
