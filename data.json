@@ -1172,10 +1172,6 @@
         "link": "https://www.themoviedb.org/tv/85991/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
-          {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
@@ -2992,6 +2988,10 @@
         "link": "https://www.themoviedb.org/tv/230059/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
@@ -3255,10 +3255,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/75865/watch?locale=US",
         "providers": [
-          {
-            "name": "Crunchyroll",
-            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
-          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
@@ -8619,5 +8615,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-15T15:45:54.298Z"
+  "updatedAt": "2026-09-15T20:30:28.279Z"
 }
