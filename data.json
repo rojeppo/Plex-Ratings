@@ -415,9 +415,9 @@
       "genres": [
         "Fantasy",
         "Comedy",
-        "Anime",
         "Animation",
-        "Adventure"
+        "Adventure",
+        "Romance"
       ],
       "imdbId": "tt13483212",
       "type": "show",
@@ -462,11 +462,11 @@
       "contentRating": "TV-PG",
       "duration": 1500000,
       "genres": [
-        "Romance",
         "Drama",
-        "Anime",
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Romance",
+        "Sport"
       ],
       "imdbId": "tt32639706",
       "type": "show",
@@ -522,9 +522,9 @@
       "genres": [
         "Mystery",
         "Animation",
-        "Crime",
         "Action",
-        "Comedy"
+        "Comedy",
+        "Crime"
       ],
       "imdbId": "tt5679720",
       "type": "show",
@@ -697,11 +697,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
         "Drama",
-        "Anime",
         "Thriller",
-        "Mystery"
+        "Animation",
+        "Mystery",
+        "Suspense"
       ],
       "imdbId": "tt7263328",
       "type": "show",
@@ -1066,9 +1066,9 @@
       "genres": [
         "Romance",
         "Fantasy",
-        "Anime",
         "Animation",
-        "Comedy"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
       "imdbId": "tt30495098",
       "type": "show",
@@ -4495,6 +4495,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6492,6 +6496,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
             "name": "Crunchyroll",
@@ -8611,5 +8619,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-15T10:32:04.849Z"
+  "updatedAt": "2026-09-15T15:45:54.298Z"
 }
