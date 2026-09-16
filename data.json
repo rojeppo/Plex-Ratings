@@ -4270,10 +4270,6 @@
           {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
-          },
-          {
-            "name": "DC Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/mNpEftvWICfa94sxzdGegPkBmCn.png"
           }
         ]
       }
@@ -8615,5 +8611,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-16T01:50:46.315Z"
+  "updatedAt": "2026-09-16T10:21:51.997Z"
 }
