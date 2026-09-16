@@ -1445,6 +1445,10 @@
         "link": "https://www.themoviedb.org/tv/247859/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
@@ -1897,10 +1901,10 @@
       "duration": 1440000,
       "genres": [
         "Fantasy",
-        "Romance",
         "Comedy",
         "Animation",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "imdbId": "tt19853780",
       "type": "show",
@@ -2181,11 +2185,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Animation",
+        "Fantasy",
         "Action",
+        "Animation",
         "Adventure",
-        "Comedy",
-        "Fantasy"
+        "Comedy"
       ],
       "imdbId": "tt21209804",
       "type": "show",
@@ -2373,11 +2377,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Romance",
         "Drama",
-        "Anime",
+        "Comedy",
         "Animation",
-        "Comedy"
+        "Romance",
+        "Anime"
       ],
       "imdbId": "tt15765670",
       "type": "show",
@@ -2811,11 +2815,11 @@
       "contentRating": "TV-MA",
       "duration": 1500000,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Anime",
         "Romance",
-        "Drama"
+        "Comedy",
+        "Animation",
+        "Drama",
+        "Anime"
       ],
       "imdbId": "tt11448214",
       "type": "show",
@@ -4774,6 +4778,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -4803,6 +4811,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -5195,6 +5207,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -6122,10 +6138,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9778-serendipity/watch?locale=US",
         "providers": [
-          {
-            "name": "Paramount Plus Essential",
-            "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
-          },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
@@ -7864,15 +7876,7 @@
       "imdbId": "tt1189340",
       "type": "movie",
       "poster": "posters/13193.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "12138",
@@ -8611,5 +8615,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-16T10:21:51.997Z"
+  "updatedAt": "2026-09-16T15:37:34.098Z"
 }
