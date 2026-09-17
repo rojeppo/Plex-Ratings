@@ -2668,10 +2668,6 @@
         "link": "https://www.themoviedb.org/tv/65676/watch?locale=US",
         "providers": [
           {
-            "name": "Crunchyroll Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
-          },
-          {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
           }
@@ -3483,7 +3479,7 @@
       "userRating": 9,
       "studio": "ENGI",
       "contentRating": "TV-14",
-      "duration": 1440000,
+      "duration": 1380000,
       "genres": [
         "Comedy",
         "Animation",
@@ -4491,10 +4487,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -4778,10 +4770,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -5739,10 +5727,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7065,8 +7049,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
       "imdbId": "tt1961175",
       "type": "movie",
@@ -8615,5 +8598,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-17T10:31:35.080Z"
+  "updatedAt": "2026-09-17T15:43:30.858Z"
 }
