@@ -4487,6 +4487,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8594,5 +8598,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-19T09:48:18.166Z"
+  "updatedAt": "2026-09-19T14:52:52.706Z"
 }
