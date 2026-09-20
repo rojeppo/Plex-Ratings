@@ -936,8 +936,8 @@
         "link": "https://www.themoviedb.org/tv/889/watch?locale=US",
         "providers": [
           {
-            "name": "Crunchyroll Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
         ]
       }
@@ -5143,6 +5143,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "name": "Paramount+ Roku Premium Channel",
+            "logo": "https://image.tmdb.org/t/p/original/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
           }
         ]
       }
@@ -8598,5 +8602,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-20T10:10:19.157Z"
+  "updatedAt": "2026-09-20T14:57:24.071Z"
 }
