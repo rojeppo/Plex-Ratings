@@ -5975,10 +5975,6 @@
           {
             "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/r5LXOt96llVEmgwAQeheJuxUaMR.png"
-          },
-          {
-            "name": "BYUtv",
-            "logo": "https://image.tmdb.org/t/p/original/nIlP6X2QcJbnXA5Tm4hrsKsniAP.png"
           }
         ]
       }
@@ -8602,5 +8598,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-20T14:57:24.071Z"
+  "updatedAt": "2026-09-20T19:52:28.193Z"
 }
