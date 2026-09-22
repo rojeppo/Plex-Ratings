@@ -1201,12 +1201,12 @@
         "link": "https://www.themoviedb.org/tv/31911-fullmetal-alchemist/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
             "name": "Crunchyroll",
@@ -1744,16 +1744,16 @@
         "link": "https://www.themoviedb.org/tv/95479/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
             "name": "Crunchyroll",
@@ -8622,5 +8622,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-22T01:59:36.853Z"
+  "updatedAt": "2026-09-22T10:25:04.389Z"
 }
