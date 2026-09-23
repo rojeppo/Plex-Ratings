@@ -1533,6 +1533,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -5412,6 +5416,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -5604,6 +5612,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -5677,6 +5689,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -5727,6 +5743,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6767,6 +6787,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7205,6 +7229,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7518,6 +7546,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7697,6 +7729,10 @@
           {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7861,6 +7897,10 @@
           {
             "name": "Amazon Prime Video Free with Ads",
             "logo": "https://image.tmdb.org/t/p/original/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7988,6 +8028,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -8013,6 +8057,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -8630,5 +8678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T10:20:02.820Z"
+  "updatedAt": "2026-09-23T15:37:24.259Z"
 }
