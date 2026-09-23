@@ -54,6 +54,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -5197,6 +5201,10 @@
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
@@ -7443,6 +7451,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8417,6 +8429,10 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+          },
+          {
+            "name": "Amazon MX Player",
+            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -8678,5 +8694,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T15:37:24.259Z"
+  "updatedAt": "2026-09-23T20:44:20.489Z"
 }
