@@ -918,6 +918,43 @@
       }
     },
     {
+      "ratingKey": "32398",
+      "title": "Dororo",
+      "year": 2019,
+      "summary": "Sightless Hyakkimaru wields fearsome prosthetics in place of the limbs his father traded to 12 demons. When he encounters the young thief Dororo, the pair sets out to reclaim Hyakkimaru's body parts and survive the demon-infested world.",
+      "userRating": 8,
+      "studio": "Twin Engine",
+      "contentRating": "TV-MA",
+      "duration": 1440000,
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Anime",
+        "Animation",
+        "Adventure"
+      ],
+      "imdbId": "tt9458304",
+      "type": "show",
+      "poster": "posters/32398.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/83100/watch?locale=US",
+        "providers": [
+          {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "HiDive",
+            "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
+          },
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "17156",
       "title": "Eureka Seven",
       "year": 2005,
@@ -3813,7 +3850,7 @@
       "userRating": 8,
       "studio": "20th Century Studios",
       "contentRating": "PG-13",
-      "duration": 11840703,
+      "duration": 11840704,
       "genres": [
         "Action",
         "Adventure",
@@ -6292,7 +6329,7 @@
       "userRating": 8,
       "studio": "A Higher Standard",
       "contentRating": "PG",
-      "duration": 5793872,
+      "duration": 5793873,
       "genres": [
         "Comedy",
         "Romance"
@@ -6453,7 +6490,7 @@
       "userRating": 9,
       "studio": "Columbia Pictures",
       "contentRating": "PG",
-      "duration": 7010130,
+      "duration": 7010131,
       "genres": [
         "Family",
         "Animation",
@@ -8694,5 +8731,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-24T01:45:06.889Z"
+  "updatedAt": "2026-09-24T10:34:20.209Z"
 }
