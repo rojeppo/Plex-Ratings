@@ -5176,10 +5176,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
@@ -7898,15 +7894,7 @@
       "imdbId": "tt1189340",
       "type": "movie",
       "poster": "posters/13193.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
-        "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "12138",
@@ -8657,5 +8645,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-25T02:02:18.736Z"
+  "updatedAt": "2026-09-25T15:24:31.633Z"
 }
