@@ -153,35 +153,6 @@
       }
     },
     {
-      "ratingKey": "31013",
-      "title": "365 Days to the Wedding",
-      "year": 2024,
-      "summary": "Takuya and Rika work at the same travel agency in Tokyo and are both happily introverted and single. But their company is opening a new branch in Alaska next year, and employees without a spouse will be recruited to work there. Desperate to avoid the move, and though they’ve hardly spoken before, they decide to fake an engagement. Can these quiet coworkers become a convincing couple?",
-      "userRating": 7,
-      "studio": "Ashi Productions",
-      "contentRating": "TV-14",
-      "duration": 1440000,
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy",
-        "Animation",
-        "Anime"
-      ],
-      "imdbId": "tt27497575",
-      "type": "show",
-      "poster": "posters/31013.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/tv/230189/watch?locale=US",
-        "providers": [
-          {
-            "name": "Crunchyroll",
-            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
-          }
-        ]
-      }
-    },
-    {
       "ratingKey": "24913",
       "title": "After the Rain",
       "year": 2018,
@@ -3147,35 +3118,6 @@
       "poster": "posters/30889.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/62564/watch?locale=US",
-        "providers": [
-          {
-            "name": "Crunchyroll",
-            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
-          }
-        ]
-      }
-    },
-    {
-      "ratingKey": "19889",
-      "title": "SSSS.Gridman",
-      "year": 2018,
-      "summary": "Yuta Hibiki can't remember who he is, and now he's seeing and hearing things that others don't. A voice from an old computer tells him to remember his calling, and he sees a massive, unmoving creature in the distance. Nothing's making sense-until the behemoth springs to life. Suddenly, Yuta is pulled into the digital world, reappearing in the real one as the colossal hero-Gridman.",
-      "userRating": 4,
-      "studio": "TRIGGER",
-      "contentRating": "TV-14",
-      "duration": 1440000,
-      "genres": [
-        "Animation",
-        "Science Fiction",
-        "Anime",
-        "Action",
-        "Adventure"
-      ],
-      "imdbId": "tt8747928",
-      "type": "show",
-      "poster": "posters/19889.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/tv/82895-ssss-gridman/watch?locale=US",
         "providers": [
           {
             "name": "Crunchyroll",
@@ -8715,5 +8657,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-24T20:50:25.801Z"
+  "updatedAt": "2026-09-25T02:02:18.736Z"
 }
