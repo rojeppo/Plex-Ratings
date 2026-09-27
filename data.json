@@ -5180,6 +5180,10 @@
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           },
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
@@ -5206,7 +5210,19 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "24225",
@@ -5846,6 +5862,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6938,6 +6958,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8641,5 +8665,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-27T10:53:46.860Z"
+  "updatedAt": "2026-09-27T15:51:57.724Z"
 }
