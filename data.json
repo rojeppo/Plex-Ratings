@@ -5994,6 +5994,10 @@
           {
             "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/r5LXOt96llVEmgwAQeheJuxUaMR.png"
+          },
+          {
+            "name": "BYUtv",
+            "logo": "https://image.tmdb.org/t/p/original/nIlP6X2QcJbnXA5Tm4hrsKsniAP.png"
           }
         ]
       }
@@ -7706,7 +7710,7 @@
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           },
           {
-            "name": "Lionsgate+ Amazon Channels",
+            "name": "Lionsgate+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
           },
           {
@@ -8669,5 +8673,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-29T11:38:56.709Z"
+  "updatedAt": "2026-09-29T17:05:04.345Z"
 }
