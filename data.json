@@ -4007,6 +4007,10 @@
         "link": "https://www.themoviedb.org/movie/933419-champions/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
@@ -8665,5 +8669,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-29T02:51:55.818Z"
+  "updatedAt": "2026-09-29T11:38:56.709Z"
 }
