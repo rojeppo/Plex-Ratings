@@ -4474,10 +4474,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6148,10 +6144,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
-          },
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           }
         ]
       }
@@ -6616,6 +6608,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8560,10 +8556,6 @@
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           },
           {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
-          },
-          {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
@@ -8673,5 +8665,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-30T02:32:55.335Z"
+  "updatedAt": "2026-09-30T11:26:02.175Z"
 }
