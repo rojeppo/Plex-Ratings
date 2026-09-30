@@ -948,8 +948,8 @@
         "link": "https://www.themoviedb.org/tv/889/watch?locale=US",
         "providers": [
           {
-            "name": "Crunchyroll",
-            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            "name": "Crunchyroll Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
           }
         ]
       }
@@ -5184,10 +5184,6 @@
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
@@ -5866,10 +5862,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7399,10 +7391,6 @@
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           },
           {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
-          },
-          {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           },
@@ -7712,10 +7700,6 @@
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
-          },
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
           {
             "name": "Darkroom",
@@ -8280,15 +8264,7 @@
       "imdbId": "tt0815236",
       "type": "movie",
       "poster": "posters/12535.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/34016-she-s-out-of-my-league/watch?locale=US",
-        "providers": [
-          {
-            "name": "Hoopla",
-            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "12625",
@@ -8665,5 +8641,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-30T11:26:02.175Z"
+  "updatedAt": "2026-09-30T17:02:47.964Z"
 }
