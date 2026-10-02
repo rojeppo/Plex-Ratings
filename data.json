@@ -4282,6 +4282,14 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -5011,6 +5019,10 @@
           {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -5124,8 +5136,12 @@
         "link": "https://www.themoviedb.org/movie/159824-hotel-transylvania-2/watch?locale=US",
         "providers": [
           {
-            "name": "Paramount+ Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
             "name": "The Roku Channel",
@@ -5753,7 +5769,23 @@
       "imdbId": "tt0892782",
       "type": "movie",
       "poster": "posters/5161.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/15512-monsters-vs-aliens/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5324",
@@ -6083,7 +6115,15 @@
       "imdbId": "tt0120812",
       "type": "movie",
       "poster": "posters/6378.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/2109-rush-hour/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6382",
@@ -6103,7 +6143,15 @@
       "imdbId": "tt0266915",
       "type": "movie",
       "poster": "posters/6382.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/5175-rush-hour-2/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6586",
@@ -6204,16 +6252,12 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
-          },
-          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
-            "name": "Sony Pictures Core Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
           }
         ]
       }
@@ -7219,6 +7263,10 @@
         "link": "https://www.themoviedb.org/movie/335984-blade-runner-2049/watch?locale=US",
         "providers": [
           {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
@@ -7597,6 +7645,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
         "providers": [
+          {
+            "name": "HBO Max",
+            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
@@ -8236,7 +8288,15 @@
       "imdbId": "tt0815236",
       "type": "movie",
       "poster": "posters/12535.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/34016-she-s-out-of-my-league/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "12625",
@@ -8465,15 +8525,7 @@
       "imdbId": "tt1142988",
       "type": "movie",
       "poster": "posters/13391.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/20943-the-ugly-truth/watch?locale=US",
-        "providers": [
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "13474",
@@ -8574,7 +8626,15 @@
       "imdbId": "tt0098635",
       "type": "movie",
       "poster": "posters/13495.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/639-when-harry-met-sally/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "13528",
@@ -8613,5 +8673,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T02:41:01.231Z"
+  "updatedAt": "2026-10-02T11:25:41.793Z"
 }
