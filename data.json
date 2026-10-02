@@ -85,6 +85,10 @@
         "link": "https://www.themoviedb.org/tv/203737/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           },
@@ -626,6 +630,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/67154/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
@@ -2134,6 +2142,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65648/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
@@ -4969,7 +4981,23 @@
       "imdbId": "tt5034838",
       "type": "movie",
       "poster": "posters/2829.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/399566-godzilla-vs-kong/watch?locale=US",
+        "providers": [
+          {
+            "name": "TNT",
+            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
+          },
+          {
+            "name": "TBS",
+            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
+          },
+          {
+            "name": "tru TV",
+            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "8436",
@@ -5502,16 +5530,8 @@
         "link": "https://www.themoviedb.org/movie/9502-kung-fu-panda/watch?locale=US",
         "providers": [
           {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
-          },
-          {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           }
         ]
       }
@@ -7499,16 +7519,8 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
-            "name": "Peacock Premium",
-            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
-            "name": "AMC+ Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png"
+            "name": "AMC Plus Apple TV channel",
+            "logo": "https://image.tmdb.org/t/p/original/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png"
           },
           {
             "name": "YouTube TV",
@@ -7519,20 +7531,12 @@
             "logo": "https://image.tmdb.org/t/p/original/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png"
           },
           {
-            "name": "Peacock Premium Plus",
-            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
-          },
-          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           },
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -8801,5 +8805,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T16:52:31.352Z"
+  "updatedAt": "2026-10-02T21:28:38.042Z"
 }
