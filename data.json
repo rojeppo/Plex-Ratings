@@ -787,6 +787,10 @@
         "link": "https://www.themoviedb.org/tv/207250/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
           }
@@ -910,6 +914,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/83100/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
@@ -1689,6 +1697,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/155440/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
           {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
@@ -4039,6 +4051,10 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+          },
+          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
@@ -4047,12 +4063,12 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
-          },
-          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -4345,6 +4361,10 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
           },
@@ -4449,6 +4469,18 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+          },
+          {
+            "name": "TNT",
+            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
+          },
+          {
+            "name": "TBS",
+            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
+          },
+          {
+            "name": "tru TV",
+            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -5074,7 +5106,15 @@
       "imdbId": "tt0457939",
       "type": "movie",
       "poster": "posters/8570.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/1581-the-holiday/watch?locale=US",
+        "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "3365",
@@ -5099,8 +5139,12 @@
         "link": "https://www.themoviedb.org/movie/76492-hotel-transylvania/watch?locale=US",
         "providers": [
           {
-            "name": "Paramount+ Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/tnZCMxbcKdxuVmjxefyXCaip7q3.png"
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
             "name": "The Roku Channel",
@@ -5226,7 +5270,15 @@
       "imdbId": "tt2361509",
       "type": "movie",
       "poster": "posters/8863.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "24225",
@@ -5744,6 +5796,10 @@
         "link": "https://www.themoviedb.org/movie/62211-monsters-university/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
           }
@@ -5804,7 +5860,19 @@
       "imdbId": "tt0119738",
       "type": "movie",
       "poster": "posters/5324.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/8874-my-best-friend-s-wedding/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Sony Pictures Core Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5418",
@@ -5827,6 +5895,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/3638-no-reservations/watch?locale=US",
         "providers": [
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+          },
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
@@ -5859,7 +5931,15 @@
       "imdbId": "tt0125439",
       "type": "movie",
       "poster": "posters/5467.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/509-notting-hill/watch?locale=US",
+        "providers": [
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "5663",
@@ -6093,6 +6173,14 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -6225,7 +6313,15 @@
       "imdbId": "tt1074638",
       "type": "movie",
       "poster": "posters/6721.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=US",
+        "providers": [
+          {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "6791",
@@ -6392,6 +6488,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/508442-soul/watch?locale=US",
         "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
@@ -6620,10 +6720,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6760,8 +6856,8 @@
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           },
           {
-            "name": "Howdy Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
+            "name": "MovieSphere+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/9GQLqBo5obK0r3nhZl24BadRKPq.png"
           },
           {
             "name": "Fawesome",
@@ -6916,6 +7012,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -7057,7 +7157,15 @@
       "imdbId": "tt0289043",
       "type": "movie",
       "poster": "posters/10892.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/170-28-days-later/watch?locale=US",
+        "providers": [
+          {
+            "name": "Apple TV",
+            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "11007",
@@ -7361,7 +7469,15 @@
       "imdbId": "tt1823672",
       "type": "movie",
       "poster": "posters/11415.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/198184-chappie/watch?locale=US",
+        "providers": [
+          {
+            "name": "Sony Pictures Core Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "11470",
@@ -7579,16 +7695,16 @@
         "link": "https://www.themoviedb.org/movie/7299-equilibrium/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           }
         ]
       }
@@ -7683,10 +7799,6 @@
         "link": "https://www.themoviedb.org/movie/256591-focus/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
           }
@@ -7714,12 +7826,12 @@
         "link": "https://www.themoviedb.org/movie/328425-the-gift/watch?locale=US",
         "providers": [
           {
-            "name": "Amazon Prime Video",
-            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
             "name": "Lionsgate+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+          },
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
           },
           {
             "name": "Kanopy",
@@ -7732,10 +7844,6 @@
           {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
-          },
-          {
-            "name": "Amazon MX Player",
-            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7764,6 +7872,10 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "name": "Apple TV",
+            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           }
         ]
       }
@@ -7794,12 +7906,16 @@
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+          },
+          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "Kanopy",
@@ -7894,16 +8010,20 @@
         "link": "https://www.themoviedb.org/movie/576845-last-night-in-soho/watch?locale=US",
         "providers": [
           {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "Amazon Prime Video Free with Ads",
-            "logo": "https://image.tmdb.org/t/p/original/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           },
           {
-            "name": "Amazon MX Player",
-            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+            "name": "Amazon Prime Video Free with Ads",
+            "logo": "https://image.tmdb.org/t/p/original/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
           }
         ]
       }
@@ -7978,8 +8098,8 @@
         "link": "https://www.themoviedb.org/movie/508-love-actually/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
             "name": "Starz",
@@ -8235,6 +8355,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/2355-reign-over-me/watch?locale=US",
         "providers": [
+          {
+            "name": "Sony Pictures Core Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
+          },
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
@@ -8548,12 +8672,12 @@
         "link": "https://www.themoviedb.org/movie/26333-untamed-heart/watch?locale=US",
         "providers": [
           {
-            "name": "Amazon Prime Video",
-            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
           {
             "name": "Fawesome",
@@ -8666,6 +8790,10 @@
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           },
           {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
             "name": "Sony Pictures Core Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png"
           }
@@ -8673,5 +8801,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T11:25:41.793Z"
+  "updatedAt": "2026-10-02T16:52:31.352Z"
 }
