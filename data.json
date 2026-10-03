@@ -1649,6 +1649,10 @@
         "link": "https://www.themoviedb.org/tv/136763/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "HiDive",
             "logo": "https://image.tmdb.org/t/p/original/1743zXk6Hn0afaarNtp6bXVMlsT.png"
           }
@@ -8805,5 +8809,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-02T21:28:38.042Z"
+  "updatedAt": "2026-10-03T02:27:35.461Z"
 }
