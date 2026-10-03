@@ -4067,6 +4067,10 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
           },
@@ -5310,6 +5314,10 @@
         "link": "https://www.themoviedb.org/movie/257211-the-intern/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           }
@@ -5340,6 +5348,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "Paramount Plus Premium",
@@ -6270,6 +6282,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/5175-rush-hour-2/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
@@ -8774,6 +8790,10 @@
         "link": "https://www.themoviedb.org/movie/639-when-harry-met-sally/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           }
@@ -8821,5 +8841,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T15:17:05.540Z"
+  "updatedAt": "2026-10-03T20:15:14.089Z"
 }
