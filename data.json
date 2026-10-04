@@ -3999,7 +3999,7 @@
         "Animation",
         "Adventure",
         "Comedy",
-        "Sport"
+        "Drama"
       ],
       "imdbId": "tt3606752",
       "type": "movie",
@@ -4467,7 +4467,7 @@
     },
     {
       "ratingKey": "2036",
-      "title": "Dune: Part One",
+      "title": "Dune",
       "year": 2021,
       "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
       "userRating": 8,
@@ -6036,10 +6036,6 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           }
@@ -7154,6 +7150,10 @@
           {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -8105,6 +8105,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8841,5 +8845,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-04T11:22:41.731Z"
+  "updatedAt": "2026-10-04T16:01:40.723Z"
 }
