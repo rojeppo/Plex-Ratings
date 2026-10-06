@@ -1270,6 +1270,10 @@
         "link": "https://www.themoviedb.org/tv/256721/watch?locale=US",
         "providers": [
           {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
@@ -2797,10 +2801,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/84669/watch?locale=US",
         "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
           {
             "name": "Crunchyroll",
             "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
@@ -5842,6 +5842,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6122,10 +6126,6 @@
           {
             "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/r5LXOt96llVEmgwAQeheJuxUaMR.png"
-          },
-          {
-            "name": "BYUtv",
-            "logo": "https://image.tmdb.org/t/p/original/nIlP6X2QcJbnXA5Tm4hrsKsniAP.png"
           }
         ]
       }
@@ -7143,10 +7143,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/136400-2-guns/watch?locale=US",
         "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
           {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
@@ -8841,5 +8837,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-06T12:16:34.266Z"
+  "updatedAt": "2026-10-06T21:55:58.661Z"
 }
