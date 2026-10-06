@@ -4802,11 +4802,11 @@
       "contentRating": "PG",
       "duration": 6133139,
       "genres": [
-        "Children",
         "Family",
         "Fantasy",
         "Animation",
-        "Adventure"
+        "Adventure",
+        "Comedy"
       ],
       "imdbId": "tt2294629",
       "type": "movie",
@@ -8841,5 +8841,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-06T03:25:27.262Z"
+  "updatedAt": "2026-10-06T12:16:34.266Z"
 }
