@@ -5362,10 +5362,6 @@
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "AMC+",
             "logo": "https://image.tmdb.org/t/p/original/wsCUflcmL4dCkzBUaGP8cj1cTkh.png"
           },
@@ -8833,5 +8829,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T12:07:47.857Z"
+  "updatedAt": "2026-10-07T22:19:36.738Z"
 }
