@@ -5960,7 +5960,7 @@
       "year": 1999,
       "summary": "A famous actress falls in love with the owner of a bookstore, but the paparazzi's fascination with her complicates their bond.",
       "userRating": 9,
-      "studio": "Working Title Films",
+      "studio": "Working Title",
       "contentRating": "PG-13",
       "duration": 7437523,
       "genres": [
@@ -7203,6 +7203,10 @@
           {
             "name": "Apple TV",
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -8829,5 +8833,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-08T03:07:05.892Z"
+  "updatedAt": "2026-10-08T12:18:18.939Z"
 }
