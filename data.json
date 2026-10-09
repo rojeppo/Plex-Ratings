@@ -8712,10 +8712,6 @@
         "link": "https://www.themoviedb.org/movie/26333-untamed-heart/watch?locale=US",
         "providers": [
           {
-            "name": "Kanopy",
-            "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
-          },
-          {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
@@ -8830,10 +8826,6 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "Apple TV",
-            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
-          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
@@ -8845,5 +8837,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-09T03:13:18.708Z"
+  "updatedAt": "2026-10-09T12:09:09.738Z"
 }
