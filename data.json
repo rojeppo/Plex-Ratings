@@ -5854,6 +5854,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7551,12 +7555,12 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
-            "name": "YouTube TV",
-            "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
-            "name": "AMC",
-            "logo": "https://image.tmdb.org/t/p/original/4lMb5R5cpg7o2GZOxI7CgxoU9Jr.png"
+            "name": "YouTube TV",
+            "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
             "name": "YouTube Free",
@@ -8825,5 +8829,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-10T11:26:45.613Z"
+  "updatedAt": "2026-10-10T16:25:33.500Z"
 }
