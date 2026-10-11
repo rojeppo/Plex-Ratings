@@ -3412,6 +3412,10 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Crunchyroll Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
           }
         ]
       }
@@ -5105,6 +5109,10 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
           },
@@ -5380,6 +5388,10 @@
           {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "YouTube TV",
@@ -7555,6 +7567,10 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
@@ -8829,5 +8845,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-11T11:39:58.898Z"
+  "updatedAt": "2026-10-11T16:50:09.911Z"
 }
