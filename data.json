@@ -3894,8 +3894,8 @@
         "Comedy",
         "Animation",
         "Adventure",
-        "Crime",
-        "Family"
+        "Action",
+        "Crime"
       ],
       "imdbId": "tt8115900",
       "type": "movie",
@@ -5314,6 +5314,18 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+          },
+          {
+            "name": "TNT",
+            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
+          },
+          {
+            "name": "TBS",
+            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
+          },
+          {
+            "name": "tru TV",
+            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           },
           {
             "name": "Tubi TV",
@@ -6805,8 +6817,8 @@
         "Action",
         "Adventure",
         "Family",
-        "Comedy",
-        "Crime"
+        "Animation",
+        "Comedy"
       ],
       "imdbId": "tt1291150",
       "type": "movie",
@@ -8845,5 +8857,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-12T02:46:06.078Z"
+  "updatedAt": "2026-10-12T13:37:25.453Z"
 }
