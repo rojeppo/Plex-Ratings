@@ -964,15 +964,7 @@
       "imdbId": "tt0765491",
       "type": "show",
       "poster": "posters/17156.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/tv/889/watch?locale=US",
-        "providers": [
-          {
-            "name": "Crunchyroll Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "17236",
@@ -4128,8 +4120,8 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Apple TV channel",
+            "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           },
           {
             "name": "YouTube Free",
@@ -4278,18 +4270,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
-          },
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -4322,18 +4302,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
-          },
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -5146,8 +5114,8 @@
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Roku Premium Channel",
+            "logo": "https://image.tmdb.org/t/p/original/tKembbxL7cYdDvFK70xBecbN0G8.png"
           },
           {
             "name": "YouTube Free",
@@ -5911,6 +5879,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6461,8 +6433,8 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+            "name": "MGM Plus Roku Premium Channel",
+            "logo": "https://image.tmdb.org/t/p/original/surh9i8VYeeq9186fKHnUg5Q5dg.png"
           }
         ]
       }
@@ -6829,6 +6801,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7677,15 +7653,7 @@
       "imdbId": "tt0780504",
       "type": "movie",
       "poster": "posters/11574.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/64690-drive/watch?locale=US",
-        "providers": [
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "13015",
@@ -7884,8 +7852,8 @@
         "link": "https://www.themoviedb.org/movie/256591-focus/watch?locale=US",
         "providers": [
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Apple TV channel",
+            "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           }
         ]
       }
@@ -8105,10 +8073,6 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
-          },
-          {
-            "name": "Amazon Prime Video Free with Ads",
-            "logo": "https://image.tmdb.org/t/p/original/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
           }
         ]
       }
@@ -8187,8 +8151,8 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Apple TV channel",
+            "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           }
         ]
       }
@@ -8680,10 +8644,6 @@
         "link": "https://www.themoviedb.org/movie/46838-tucker-and-dale-vs-evil/watch?locale=US",
         "providers": [
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "Magnolia Selects Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/jGDWtSHBVsAAwJbLONwxR0SquXf.png"
           },
@@ -8702,6 +8662,10 @@
           {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "The Roku Channel",
@@ -8886,5 +8850,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T13:00:34.242Z"
+  "updatedAt": "2026-10-13T22:00:26.913Z"
 }
