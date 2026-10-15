@@ -914,11 +914,11 @@
       "contentRating": "TV-MA",
       "duration": 1440000,
       "genres": [
-        "Fantasy",
-        "Action",
-        "Anime",
         "Animation",
-        "Adventure"
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Horror"
       ],
       "imdbId": "tt9458304",
       "type": "show",
@@ -1020,9 +1020,9 @@
       "genres": [
         "Fantasy",
         "Action",
-        "Anime",
         "Animation",
-        "Adventure"
+        "Adventure",
+        "Drama"
       ],
       "imdbId": "tt3621796",
       "type": "show",
@@ -1371,11 +1371,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Sport",
-        "Anime",
         "Animation",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Sport",
+        "Anime"
       ],
       "imdbId": "tt3398540",
       "type": "show",
@@ -2816,6 +2816,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
           }
         ]
       }
@@ -5887,10 +5891,6 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7119,11 +7119,11 @@
       "contentRating": "PG",
       "duration": 6395648,
       "genres": [
-        "Anime",
         "Animation",
         "Drama",
         "Fantasy",
-        "Romance"
+        "Romance",
+        "Anime"
       ],
       "imdbId": "tt5311514",
       "type": "movie",
@@ -8850,5 +8850,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T10:24:57.709Z"
+  "updatedAt": "2026-10-15T15:49:45.619Z"
 }
