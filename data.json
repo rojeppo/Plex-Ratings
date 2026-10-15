@@ -5122,10 +5122,6 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Starz Roku Premium Channel",
             "logo": "https://image.tmdb.org/t/p/original/tKembbxL7cYdDvFK70xBecbN0G8.png"
           },
@@ -5413,10 +5409,6 @@
           {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "YouTube TV",
@@ -6809,10 +6801,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8676,10 +8664,6 @@
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
-            "name": "DistroTV",
-            "logo": "https://image.tmdb.org/t/p/original/theOpF1b4doC39xCrPT5IOEsClp.png"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -8850,5 +8834,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T15:49:45.619Z"
+  "updatedAt": "2026-10-15T20:35:10.331Z"
 }
