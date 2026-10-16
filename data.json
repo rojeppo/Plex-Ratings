@@ -100,6 +100,35 @@
       }
     },
     {
+      "ratingKey": "36145",
+      "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+      "year": 2024,
+      "summary": "Rishe is already on her seventh time around being reborn and has had all kinds of excitement in her previous lives. But to savor the high life, she first has to marry the handsome prince, the same one who happens to be her murderer.",
+      "userRating": 8,
+      "studio": "Studio KAI",
+      "contentRating": "TV-14",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Romance",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "imdbId": "tt28685624",
+      "type": "show",
+      "poster": "posters/36145.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/232926-7/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "16596",
       "title": "86 EIGHTY-SIX",
       "year": 2021,
@@ -8834,5 +8863,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T01:48:09.855Z"
+  "updatedAt": "2026-10-16T10:12:11.096Z"
 }
