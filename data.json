@@ -4250,6 +4250,10 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
+            "name": "Cinemax Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
           }
         ]
       }
@@ -5364,10 +5368,6 @@
           {
             "name": "tru TV",
             "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -6491,10 +6491,6 @@
         "link": "https://www.themoviedb.org/movie/568620-snake-eyes-g-i-joe-origins/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           }
@@ -6922,6 +6918,10 @@
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           },
           {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+          },
+          {
             "name": "Cineverse",
             "logo": "https://image.tmdb.org/t/p/original/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
           },
@@ -7180,10 +7180,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7648,6 +7644,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8863,5 +8863,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T10:12:11.096Z"
+  "updatedAt": "2026-10-16T15:37:53.473Z"
 }
