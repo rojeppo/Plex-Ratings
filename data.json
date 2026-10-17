@@ -2361,10 +2361,10 @@
       "duration": 1440000,
       "genres": [
         "Comedy",
-        "Fantasy",
-        "Anime",
         "Animation",
-        "Action"
+        "Action",
+        "Drama",
+        "Fantasy"
       ],
       "imdbId": "tt5897304",
       "type": "show",
@@ -2489,8 +2489,8 @@
       "genres": [
         "Drama",
         "Comedy",
-        "Animation",
         "Romance",
+        "Animation",
         "Anime"
       ],
       "imdbId": "tt15765670",
@@ -2820,17 +2820,17 @@
       "ratingKey": "21543",
       "title": "One-Punch Man",
       "year": 2015,
-      "summary": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
+      "summary": "Saitama, a superhero who can defeat any foe with a single punch, battles boredom as he searches for a worthy opponent in a world plagued by monsters.",
       "userRating": 9,
       "studio": "Madhouse",
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
         "Comedy",
-        "Action",
-        "Anime",
         "Animation",
-        "Fantasy"
+        "Action",
+        "Fantasy",
+        "Science Fiction"
       ],
       "imdbId": "tt4508902",
       "type": "show",
@@ -4616,6 +4616,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/259316-fantastic-beasts-and-where-to-find-them/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
@@ -8863,5 +8867,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-17T09:46:07.779Z"
+  "updatedAt": "2026-10-17T14:29:47.833Z"
 }
