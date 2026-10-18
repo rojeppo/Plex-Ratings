@@ -3599,11 +3599,11 @@
       "contentRating": "TV-MA",
       "duration": 1500000,
       "genres": [
-        "Animation",
+        "War",
+        "History",
         "Anime",
-        "Drama",
-        "Action",
-        "Adventure"
+        "Animation",
+        "Action"
       ],
       "imdbId": "tt10233448",
       "type": "show",
@@ -3644,11 +3644,11 @@
       "contentRating": "TV-14",
       "duration": 1500000,
       "genres": [
-        "Animation",
+        "Romance",
         "Drama",
-        "Science Fiction",
-        "Fantasy",
-        "Romance"
+        "Anime",
+        "Animation",
+        "Fantasy"
       ],
       "imdbId": "tt7078180",
       "type": "show",
@@ -3721,11 +3721,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Drama",
-        "Action",
         "Animation",
+        "Action",
         "Adventure",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
       "imdbId": "tt29605391",
       "type": "show",
@@ -3806,10 +3806,10 @@
       "contentRating": "TV-PG",
       "duration": 1380000,
       "genres": [
-        "Comedy",
-        "Anime",
-        "Music",
         "Romance",
+        "Drama",
+        "Music",
+        "Comedy",
         "Animation"
       ],
       "imdbId": "tt3895150",
@@ -4659,6 +4659,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/338952-fantastic-beasts-the-crimes-of-grindelwald/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
@@ -8871,5 +8875,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-18T09:58:47.341Z"
+  "updatedAt": "2026-10-18T14:56:08.013Z"
 }
