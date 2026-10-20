@@ -4621,10 +4621,6 @@
         "link": "https://www.themoviedb.org/movie/259316-fantastic-beasts-and-where-to-find-them/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
           },
@@ -6224,6 +6220,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/18240-the-proposal/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
@@ -8153,7 +8153,7 @@
       "year": 2003,
       "summary": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
       "userRating": 7,
-      "studio": "Working Title Films",
+      "studio": "Working Title",
       "contentRating": "R",
       "duration": 8091227,
       "genres": [
@@ -8875,5 +8875,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-20T10:29:01.269Z"
+  "updatedAt": "2026-10-20T15:52:52.431Z"
 }
