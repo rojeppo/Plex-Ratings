@@ -7372,8 +7372,16 @@
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
+            "name": "JustWatch TV Plus",
+            "logo": "https://image.tmdb.org/t/p/original/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+          },
+          {
             "name": "Paramount Plus Essential",
             "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
+          },
+          {
+            "name": "JustWatch TV Free",
+            "logo": "https://image.tmdb.org/t/p/original/dMMp97ZdEkokwbdjqeM12Xk0acu.png"
           },
           {
             "name": "Kanopy",
@@ -7424,6 +7432,10 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
+            "name": "HBO Max",
+            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
           },
           {
             "name": "YouTube TV",
@@ -8705,6 +8717,10 @@
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
+          },
+          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -8875,5 +8891,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-21T10:40:22.784Z"
+  "updatedAt": "2026-10-21T16:10:15.674Z"
 }
