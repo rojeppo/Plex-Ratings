@@ -5444,10 +5444,6 @@
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
@@ -8895,5 +8891,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-25T15:05:55.274Z"
+  "updatedAt": "2026-10-25T20:02:40.738Z"
 }
