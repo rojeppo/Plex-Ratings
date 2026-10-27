@@ -2608,6 +2608,10 @@
           {
             "name": "Rakuten Viki",
             "logo": "https://image.tmdb.org/t/p/original/AoNsevRecTdVv4xQEf1oLRGO2yh.png"
+          },
+          {
+            "name": "WeTV",
+            "logo": "https://image.tmdb.org/t/p/original/wonfCSSdI55EfVFlWJyyQZIlYx7.png"
           }
         ]
       }
@@ -5920,6 +5924,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8903,5 +8911,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-27T11:07:31.791Z"
+  "updatedAt": "2026-10-27T16:54:37.023Z"
 }
