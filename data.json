@@ -5920,6 +5920,10 @@
           {
             "name": "Hulu",
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6898,6 +6902,10 @@
             "logo": "https://image.tmdb.org/t/p/original/hkw2s2Su8EyifB9EbbQP64Fj1xA.png"
           },
           {
+            "name": "Darkroom",
+            "logo": "https://image.tmdb.org/t/p/original/naf5wQA91UCj0OetKOEYZgWZLqe.png"
+          },
+          {
             "name": "Retrocrush",
             "logo": "https://image.tmdb.org/t/p/original/pqXjcTVXpOVHF3IfWo9siRZkLXo.png"
           },
@@ -6908,10 +6916,6 @@
           {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
-          },
-          {
-            "name": "Darkroom",
-            "logo": "https://image.tmdb.org/t/p/original/naf5wQA91UCj0OetKOEYZgWZLqe.png"
           },
           {
             "name": "Fawesome",
@@ -8895,5 +8899,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-31T02:51:46.745Z"
+  "updatedAt": "2026-10-31T11:17:04.051Z"
 }
