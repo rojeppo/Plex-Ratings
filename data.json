@@ -2859,8 +2859,8 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
-            "name": "Crunchyroll",
-            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            "name": "Crunchyroll Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
           }
         ]
       }
@@ -4866,10 +4866,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           }
         ]
       }
@@ -7448,10 +7444,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           }
         ]
       }
@@ -8899,5 +8891,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-31T11:17:04.051Z"
+  "updatedAt": "2026-10-31T16:21:53.255Z"
 }
