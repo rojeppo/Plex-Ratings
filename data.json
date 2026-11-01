@@ -3991,15 +3991,7 @@
       "imdbId": "tt0322259",
       "type": "movie",
       "poster": "posters/125.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/584-2-fast-2-furious/watch?locale=US",
-        "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "721",
@@ -4289,10 +4281,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
           {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
@@ -4848,15 +4836,7 @@
       "imdbId": "tt0232500",
       "type": "movie",
       "poster": "posters/8297.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
-        "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "2553",
@@ -4978,12 +4958,20 @@
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
+          },
+          {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
+          },
+          {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
           },
           {
             "name": "Tubi TV",
@@ -9976,5 +9964,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-01T12:06:30.357Z"
+  "updatedAt": "2026-11-01T21:24:07.311Z"
 }
