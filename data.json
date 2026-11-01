@@ -7174,10 +7174,6 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
@@ -8591,6 +8587,10 @@
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
           {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
+          },
+          {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
@@ -9383,6 +9383,41 @@
       }
     },
     {
+      "ratingKey": "25061",
+      "title": "Troupe Dragon, On Stage! (They Had A Troupe Name, Huh)",
+      "showTitle": "Miss Kobayashi's Dragon Maid",
+      "season": 1,
+      "episode": 10,
+      "year": 2017,
+      "summary": "Tohru is asked by one of the shopping district's retailers to put on a Christmas show for the elderly. The dragons take some creative liberties with the script.",
+      "userRating": 10,
+      "contentRating": "TV-14",
+      "duration": 1421441,
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Fantasy",
+        "Sci-Fi & Fantasy",
+        "Anime"
+      ],
+      "imdbId": "tt6653034",
+      "type": "episode",
+      "poster": "posters/25019.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/69291/watch?locale=US",
+        "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "34169",
       "title": "Separate Journeys",
       "showTitle": "Mushoku Tensei: Jobless Reincarnation",
@@ -9401,6 +9436,41 @@
         "Fantasy"
       ],
       "imdbId": "tt16074068",
+      "type": "episode",
+      "poster": "posters/34123.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=US",
+        "providers": [
+          {
+            "name": "Hulu",
+            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+          },
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
+      "ratingKey": "34137",
+      "title": "To You",
+      "showTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "season": 2,
+      "episode": 11,
+      "year": 2023,
+      "summary": "Ariel confronts Sylphiette with a choice: reveal herself to Rudeus or cut ties with him forever. Determined on one last push to jog Rudeus's memory, Sylphiette invites him on a forest expedition.",
+      "userRating": 10,
+      "contentRating": "TV-MA",
+      "duration": 1422900,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "imdbId": "tt28712016",
       "type": "episode",
       "poster": "posters/34123.jpg",
       "whereToWatch": {
@@ -9906,5 +9976,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-01T08:37:27.989Z"
+  "updatedAt": "2026-11-01T12:06:30.357Z"
 }
