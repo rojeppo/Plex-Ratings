@@ -162,6 +162,53 @@ async function getWatchProviders(tmdbId, imdbId, type, title) {
   }
 }
 
+// ── Episodes ─────────────────────────────────────────────────────────────────
+const episodes      = [];
+const showInfoCache = new Map();
+
+// Fetch every item at a path by paging through the results.
+// A library can hold more episodes than a single request returns.
+async function plexGetAll(p, pageSize = 1000) {
+  const all = [];
+  for (let start = 0; ; start += pageSize) {
+    const sep = p.includes('?') ? '&' : '?';
+    const url = `${PLEX_URL}${p}${sep}X-Plex-Token=${PLEX_TOKEN}&X-Plex-Container-Start=${start}&X-Plex-Container-Size=${pageSize}`;
+    const res = await fetch(url, { headers: { Accept: 'application/json' } });
+    if (!res.ok) throw new Error(`Plex returned HTTP ${res.status} for ${p}`);
+    const mc    = (await res.json()).MediaContainer || {};
+    const batch = mc.Metadata || [];
+    all.push(...batch);
+    const done = mc.totalSize != null ? all.length >= mc.totalSize : batch.length < pageSize;
+    if (!batch.length || done) break;
+  }
+  return all;
+}
+
+// Episodes don't carry their own poster, genres, or streaming data, so these come from the parent show.
+async function getShowInfo(showKey) {
+  const empty = { poster: null, genres: [], whereToWatch: null };
+  if (showKey == null) return empty;
+  const key = String(showKey);
+  if (showInfoCache.has(key)) return showInfoCache.get(key);
+
+  let info = empty;
+  try {
+    const data = await plexGet(`/library/metadata/${key}`);
+    const show = data.MediaContainer?.Metadata?.[0];
+    if (show) {
+      info = {
+        poster:       await downloadPoster(show.thumb, key),
+        genres:       (show.Genre || []).map(g => g.tag).slice(0, 5),
+        whereToWatch: await getWatchProviders(extractTmdbId(show), extractImdbId(show), 'show', show.title),
+      };
+    }
+  } catch (e) {
+    console.warn(`Could not load show info for ${key}:`, e.message);
+  }
+  showInfoCache.set(key, info);
+  return info;
+}
+
 // ── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
   console.log('Connecting to Plex...');
@@ -211,6 +258,7 @@ async function main() {
         year:       detailedItem.year               || null,
         summary:    detailedItem.summary            || '',
         userRating: parseFloat(item.userRating),
+        ratedAt:    parseInt(item.lastRatedAt ?? detailedItem.lastRatedAt, 10) || null,
         studio:     detailedItem.studio             || null,
         contentRating: detailedItem.contentRating   || null,
         duration:   detailedItem.duration           || null,
@@ -223,11 +271,54 @@ async function main() {
       if (sec.type === 'show')  shows.push(entry);
       else                      movies.push(entry);
     }
+
+    // Individually rated episodes in TV libraries
+    if (sec.type === 'show') {
+      // Rated shows were just processed above, so reuse their poster, genres, and streaming data
+      shows.forEach(s => showInfoCache.set(String(s.ratingKey),
+        { poster: s.poster, genres: s.genres, whereToWatch: s.whereToWatch }));
+
+      const allEps   = await plexGetAll(`/library/sections/${sec.key}/all?type=4`);
+      const ratedEps = allEps.filter(e => e.userRating != null && e.userRating !== '');
+      console.log(`  ${ratedEps.length} rated episodes found (of ${allEps.length}).`);
+
+      for (const ep of ratedEps) {
+        let detail = ep;
+        try {
+          const d = await plexGet(`/library/metadata/${ep.ratingKey}`);
+          if (d.MediaContainer?.Metadata?.[0]) detail = d.MediaContainer.Metadata[0];
+        } catch (e) {
+          console.warn(`Could not fetch details for episode ${ep.ratingKey}, using basic data.`);
+        }
+
+        const show = await getShowInfo(ep.grandparentRatingKey);
+
+        episodes.push({
+          ratingKey:     ep.ratingKey,
+          title:         detail.title            || 'Untitled',
+          showTitle:     ep.grandparentTitle     || '',
+          season:        ep.parentIndex          ?? null,
+          episode:       ep.index                ?? null,
+          year:          detail.year             || null,
+          summary:       detail.summary          || '',
+          userRating:    parseFloat(ep.userRating),
+          contentRating: detail.contentRating    || null,
+          duration:      detail.duration         || null,
+          genres:        show.genres,
+          imdbId:        extractImdbId(detail),
+          type:          'episode',
+          poster:        show.poster,
+          whereToWatch:  show.whereToWatch
+        });
+      }
+    }
   }
 
-  const output = { shows, movies, updatedAt: new Date().toISOString() };
+  console.log(`lastRatedAt missing: ${shows.filter(s => !s.ratedAt).length}/${shows.length} shows, ${movies.filter(m => !m.ratedAt).length}/${movies.length} movies.`);
+
+  const output = { shows, movies, episodes, updatedAt: new Date().toISOString() };
   fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
-  console.log(`Done. ${shows.length} shows, ${movies.length} movies written.`);
+  console.log(`Done. ${shows.length} shows, ${movies.length} movies, ${episodes.length} episodes written.`);
 }
 
 main().catch(err => { console.error('Fatal error:', err); process.exit(1); });
