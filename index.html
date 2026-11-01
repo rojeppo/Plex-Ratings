@@ -381,6 +381,11 @@
   .star-half   { color: var(--gold); opacity: 0.7; }
   .star-empty  { color: var(--border); }
   .card-rating-num { font-family: 'Cinzel', serif; font-size: 0.62rem; color: var(--muted); flex-shrink: 0; }
+  .card-sub {
+    font-size: 0.78rem; color: var(--muted); font-style: italic;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    margin-bottom: 0.25rem;
+  }
 
   .empty { text-align: center; padding: 6rem 2rem; color: var(--muted); }
   .empty p { font-style: italic; font-size: 1.1rem; }
@@ -676,8 +681,11 @@
         <div class="controls">
           <label>Sort</label>
           <select onchange="sortGrid('shows', this.value)">
-            <option value="rating-desc">Rating ↓</option>
+            <option value="episodes">Episodes</option>
+            <option value="rating-desc" selected>Rating ↓</option>
             <option value="rating-asc">Rating ↑</option>
+            <option value="rated-desc">Recent ↓</option>
+            <option value="rated-asc">Recent ↑</option>
             <option value="title-asc">Title A–Z</option>
             <option value="title-desc">Title Z–A</option>
             <option value="year-desc">Year ↓</option>
@@ -699,6 +707,8 @@
           <select onchange="sortGrid('movies', this.value)">
             <option value="rating-desc">Rating ↓</option>
             <option value="rating-asc">Rating ↑</option>
+            <option value="rated-desc">Recent ↓</option>
+            <option value="rated-asc">Recent ↑</option>
             <option value="title-asc">Title A–Z</option>
             <option value="title-desc">Title Z–A</option>
             <option value="year-desc">Year ↓</option>
@@ -748,7 +758,7 @@
 <script>
   // Items stored by ratingKey — avoids any issues with special characters in onclick attributes
   const itemMap = {};
-  let allShows = [], allMovies = [], cfg = {};
+  let allShows = [], allMovies = [], allEpisodes = [], cfg = {};
   let showsSort = 'rating-desc', moviesSort = 'rating-desc';
   let activeTab = 'shows';
 
@@ -787,11 +797,16 @@
       cfg        = await cfgRes.json();
       const data = await dataRes.json();
 
-      allShows  = data.shows  || [];
-      allMovies = data.movies || [];
+      allShows    = data.shows    || [];
+      allMovies   = data.movies   || [];
+      allEpisodes = data.episodes || [];
 
       // Populate item lookup map
-      [...allShows, ...allMovies].forEach(item => { itemMap[item.ratingKey] = item; });
+      [...allShows, ...allMovies, ...allEpisodes].forEach(item => { itemMap[item.ratingKey] = item; });
+
+      // No rated episodes yet (or data.json predates episodes): drop the dropdown option
+      if (!allEpisodes.length)
+        document.querySelector('#tab-shows option[value="episodes"]')?.remove();
 
       initTheme(cfg.defaultTheme);
       document.title = `${cfg.ownerName}'s Ratings`;
@@ -891,10 +906,18 @@
     document.getElementById(gridId).innerHTML = sorted.map((item, i) => cardHTML(item, i)).join('');
   }
 
+  // "Show Name · S2E5" for episodes
+  function episodeLabel(item) {
+    const se = (item.season != null && item.episode != null) ? `S${item.season}E${item.episode}` : '';
+    return [item.showTitle, se].filter(Boolean).join(' · ');
+  }
+
   function cardHTML(item, i) {
     const rating = parseFloat(item.userRating);
     const stars  = renderStars(rating);
     const title  = esc(item.title || 'Untitled');
+    const isEp   = item.type === 'episode';
+    const label  = isEp ? esc(episodeLabel(item)) : '';
     const year   = item.year || '';
     const poster = item.poster || '';
     // Use ratingKey as the only thing in onclick — no JSON in HTML attributes
@@ -910,7 +933,8 @@
         <div class="poster-placeholder" style="${poster ? '' : 'display:flex'}">${title}</div>
       </div>
       <div class="card-meta">
-        <div class="card-title" title="${title}">${title}</div>
+        <div class="card-title" title="${isEp ? label + ' — ' + title : title}">${title}</div>
+        ${isEp ? `<div class="card-sub">${label}</div>` : ''}
         <div class="card-footer">
           ${year ? `<span class="card-year">${year}</span><span class="card-divider">·</span>` : ''}
           <div class="card-stars">${stars}</div>
@@ -941,6 +965,20 @@
         if (a.userRating !== b.userRating) return a.userRating - b.userRating;
         return (a.title || '').localeCompare(b.title || '');
       }
+      if (sort === 'episodes') {
+        // Highest rated first, then grouped by show A–Z in airing order
+        if (b.userRating !== a.userRating) return b.userRating - a.userRating;
+        const byShow = (a.showTitle || '').localeCompare(b.showTitle || '');
+        if (byShow) return byShow;
+        return ((a.season ?? 0) - (b.season ?? 0)) || ((a.episode ?? 0) - (b.episode ?? 0));
+      }
+      if (sort === 'rated-desc' || sort === 'rated-asc') {
+        // Items with no rating date always sink to the bottom
+        const ad = a.ratedAt || 0, bd = b.ratedAt || 0;
+        if (!ad !== !bd) return ad ? -1 : 1;
+        if (ad !== bd) return sort === 'rated-desc' ? bd - ad : ad - bd;
+        return (a.title || '').localeCompare(b.title || '');
+      }
       if (sort === 'title-asc')   return (a.title||'').localeCompare(b.title||'');
       if (sort === 'title-desc')  return (b.title||'').localeCompare(a.title||'');
       if (sort === 'year-desc') {
@@ -958,7 +996,8 @@
 
   function sortGrid(type, sort) {
     if (type === 'shows') showsSort = sort; else moviesSort = sort;
-    renderGrid(type, type === 'shows' ? allShows : allMovies, sort);
+    const items = type === 'shows' ? (sort === 'episodes' ? allEpisodes : allShows) : allMovies;
+    renderGrid(type, items, sort);
   }
 
   // ── TABS ───────────────────────────────────────────────────────────────────
@@ -987,7 +1026,10 @@
     }
 
     // Type + title
-    document.getElementById('modal-type').textContent  = item.type === 'show' ? 'Television Series' : 'Film';
+    document.getElementById('modal-type').textContent  =
+      item.type === 'episode' ? episodeLabel(item)
+      : item.type === 'show'  ? 'Television Series'
+      : 'Film';
     document.getElementById('modal-title').textContent = item.title || 'Untitled';
 
     // Meta row: year · content rating · duration
@@ -995,7 +1037,7 @@
     const metaParts = [];
     if (item.year) metaParts.push(`<span class="modal-year">${item.year}</span>`);
     if (item.contentRating) metaParts.push(`<span class="modal-content-rating">${esc(item.contentRating)}</span>`);
-    if (item.duration && item.type === 'movie') {
+    if (item.duration && item.type !== 'show') {
       const mins = Math.round(item.duration / 60000);
       const h = Math.floor(mins / 60), m = mins % 60;
       metaParts.push(`<span class="modal-duration">${h > 0 ? h + 'h ' : ''}${m}m</span>`);
@@ -1024,10 +1066,13 @@
     }
 
     const exactJustWatchLink = item.whereToWatch ? item.whereToWatch.link : null;
-    const jwUrl = exactJustWatchLink || `https://www.justwatch.com/us/search?q=${encodeURIComponent(item.title)}`;
+    const isEp  = item.type === 'episode';
+    const jwUrl = exactJustWatchLink || `https://www.justwatch.com/us/search?q=${encodeURIComponent(isEp ? item.showTitle : item.title)}`;
     links.push(`<a class="modal-link modal-link-justwatch" href="${jwUrl}" target="_blank" rel="noopener">Where to Watch ↗</a>`);
 
-    const searchQ = encodeURIComponent(`${item.title}${item.year ? ' ' + item.year : ''}`);
+    const searchQ = encodeURIComponent(isEp
+      ? `${item.showTitle} ${item.title}`
+      : `${item.title}${item.year ? ' ' + item.year : ''}`);
     links.push(`<a class="modal-link modal-link-search" href="https://www.google.com/search?q=${searchQ}" target="_blank" rel="noopener">Search ↗</a>`);
 
     linksEl.innerHTML = links.join('');
