@@ -4282,16 +4282,16 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+          },
+          {
+            "name": "MGM Plus",
+            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
           },
           {
             "name": "Starz Apple TV channel",
@@ -5047,6 +5047,10 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
+          },
+          {
+            "name": "FXNow",
+            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           }
         ]
       }
@@ -5492,10 +5496,6 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
@@ -5599,6 +5599,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -5712,10 +5716,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "name": "Cinemax Amazon Channel",
-            "logo": "https://image.tmdb.org/t/p/original/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
           }
         ]
       }
@@ -5749,6 +5749,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -5828,8 +5832,12 @@
         "link": "https://www.themoviedb.org/movie/9502-kung-fu-panda/watch?locale=US",
         "providers": [
           {
-            "name": "Amazon Prime Video",
-            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+          },
+          {
+            "name": "Wonder Project Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/q44PU5iFUrxhOLKW19BrPuEN6Go.png"
           }
         ]
       }
@@ -6272,6 +6280,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           }
         ]
       }
@@ -6422,6 +6434,14 @@
           {
             "name": "Britbox Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/r5LXOt96llVEmgwAQeheJuxUaMR.png"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -6510,16 +6530,8 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -6880,8 +6892,8 @@
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
-            "name": "HBO Max",
-            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            "name": "HBO Max Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
           },
           {
             "name": "FXNow",
@@ -7106,6 +7118,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Hoopla",
+            "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           }
         ]
       }
@@ -7211,12 +7227,12 @@
         "link": "https://www.themoviedb.org/movie/290764-tracers/watch?locale=US",
         "providers": [
           {
-            "name": "Amazon Prime Video",
-            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
             "name": "MovieSphere+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/9GQLqBo5obK0r3nhZl24BadRKPq.png"
+          },
+          {
+            "name": "Howdy Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
           },
           {
             "name": "Fawesome",
@@ -7245,10 +7261,6 @@
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
-          },
-          {
-            "name": "Amazon MX Player",
-            "logo": "https://image.tmdb.org/t/p/original/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
           }
         ]
       }
@@ -7531,10 +7543,6 @@
           {
             "name": "Apple TV",
             "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
-          {
-            "name": "Tubi TV",
-            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -7759,10 +7767,6 @@
           {
             "name": "Amazon Prime Video",
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
             "name": "Paramount Plus Premium",
@@ -8110,8 +8114,8 @@
         "link": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
         "providers": [
           {
-            "name": "HBO Max",
-            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "YouTube TV",
@@ -8454,6 +8458,10 @@
           {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           }
         ]
       }
@@ -8696,15 +8704,7 @@
       "imdbId": "tt14114802",
       "type": "movie",
       "poster": "posters/13299.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/799876-the-outfit/watch?locale=US",
-        "providers": [
-          {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "12434",
@@ -8943,8 +8943,16 @@
         "link": "https://www.themoviedb.org/movie/13090-sunshine-cleaning/watch?locale=US",
         "providers": [
           {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
             "name": "HBO Max Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+          },
+          {
+            "name": "Lionsgate+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
           }
         ]
       }
@@ -9112,6 +9120,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Peacock Premium Plus",
+            "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           },
           {
             "name": "Kanopy",
@@ -9885,7 +9897,7 @@
       "season": 1,
       "episode": 6,
       "year": 2023,
-      "summary": "Fumi’s in love, but Mitsumi doesn’t have time to internalize it as exams are right around the corner!",
+      "summary": "A call from her childhood friend Fumi, who has fallen in love, gets Mitsumi wondering what that feels like. Back at school, with exams on the horizon, Shima's absence and swirling rumors leave Mitsumi worried about him. When her anxious concern accidentally sparks a tense disagreement, Mitsumi and Shima must navigate their first real hurdle in understanding each other.",
       "userRating": 10,
       "contentRating": "TV-14",
       "duration": 1420013,
@@ -9983,5 +9995,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-02T04:26:29.813Z"
+  "updatedAt": "2026-11-02T13:56:07.082Z"
 }
