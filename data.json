@@ -9212,6 +9212,7 @@
       "imdbId": "tt28808710",
       "type": "episode",
       "poster": "posters/16911.jpg",
+      "thumb": "posters/ep-25653.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65931/watch?locale=US",
         "providers": [
@@ -9242,6 +9243,7 @@
       "imdbId": "tt9913106",
       "type": "episode",
       "poster": "posters/32008.jpg",
+      "thumb": "posters/ep-32012.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/85990/watch?locale=US",
         "providers": [
@@ -9273,6 +9275,7 @@
       "imdbId": null,
       "type": "episode",
       "poster": "posters/17732.jpg",
+      "thumb": "posters/ep-17865.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/46298-hunterxhunter/watch?locale=US",
         "providers": [
@@ -9332,6 +9335,7 @@
       "imdbId": null,
       "type": "episode",
       "poster": "posters/17732.jpg",
+      "thumb": "posters/ep-17869.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/46298-hunterxhunter/watch?locale=US",
         "providers": [
@@ -9391,6 +9395,7 @@
       "imdbId": "tt6653034",
       "type": "episode",
       "poster": "posters/25019.jpg",
+      "thumb": "posters/ep-25061.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/69291/watch?locale=US",
         "providers": [
@@ -9426,6 +9431,7 @@
       "imdbId": "tt16074068",
       "type": "episode",
       "poster": "posters/34123.jpg",
+      "thumb": "posters/ep-34169.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/94664/watch?locale=US",
         "providers": [
@@ -9461,6 +9467,7 @@
       "imdbId": "tt28712016",
       "type": "episode",
       "poster": "posters/34123.jpg",
+      "thumb": "posters/ep-34137.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/94664/watch?locale=US",
         "providers": [
@@ -9496,6 +9503,7 @@
       "imdbId": "tt6941178",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-18683.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9543,6 +9551,7 @@
       "imdbId": "tt8345072",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-18703.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9590,6 +9599,7 @@
       "imdbId": "tt8828896",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-18722.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9637,6 +9647,7 @@
       "imdbId": "tt27005527",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-18801.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9684,6 +9695,7 @@
       "imdbId": "tt32902817",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-25823.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9731,6 +9743,7 @@
       "imdbId": "tt33341758",
       "type": "episode",
       "poster": "posters/18658.jpg",
+      "thumb": "posters/ep-25831.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65930/watch?locale=US",
         "providers": [
@@ -9778,6 +9791,7 @@
       "imdbId": "tt5799360",
       "type": "episode",
       "poster": "posters/19685.jpg",
+      "thumb": "posters/ep-19693.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65942-re/watch?locale=US",
         "providers": [
@@ -9813,6 +9827,7 @@
       "imdbId": "tt5799418",
       "type": "episode",
       "poster": "posters/19685.jpg",
+      "thumb": "posters/ep-19697.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65942-re/watch?locale=US",
         "providers": [
@@ -9848,6 +9863,7 @@
       "imdbId": "tt5986832",
       "type": "episode",
       "poster": "posters/19685.jpg",
+      "thumb": "posters/ep-19704.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/65942-re/watch?locale=US",
         "providers": [
@@ -9883,6 +9899,7 @@
       "imdbId": "tt27514576",
       "type": "episode",
       "poster": "posters/31383.jpg",
+      "thumb": "posters/ep-31390.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/139130/watch?locale=US",
         "providers": [
@@ -9914,6 +9931,7 @@
       "imdbId": "tt23629820",
       "type": "episode",
       "poster": "posters/20530.jpg",
+      "thumb": "posters/ep-20552.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/98986/watch?locale=US",
         "providers": [
@@ -9945,6 +9963,7 @@
       "imdbId": "tt32418793",
       "type": "episode",
       "poster": "posters/26986.jpg",
+      "thumb": "posters/ep-26995.jpg",
       "whereToWatch": {
         "link": "https://www.themoviedb.org/tv/223500-wind-breaker/watch?locale=US",
         "providers": [
@@ -9964,5 +9983,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-02T02:53:05.023Z"
+  "updatedAt": "2026-11-02T04:20:02.968Z"
 }
