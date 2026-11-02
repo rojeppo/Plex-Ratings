@@ -116,6 +116,10 @@
     line-height: 1;
   }
 
+  /* Title is a link back to the default view */
+  .header-left h1 a { color: inherit; text-decoration: none; transition: color 0.2s; }
+  .header-left h1 a:hover, .header-left h1 a:focus-visible { color: var(--accent); }
+
   .header-left p {
     font-style: italic;
     color: rgba(245,240,232,0.45);
@@ -638,7 +642,7 @@
 <div id="app">
   <header>
     <div class="header-left">
-      <h1 id="site-title"></h1>
+      <h1><a id="site-title" href="./" onclick="goHome(event)"></a></h1>
       <p id="header-sub"></p>
       <div class="updated" id="updated-at"></div>
     </div>
@@ -1021,6 +1025,23 @@
     if (!document.getElementById('search-input').value.trim()) {
       document.querySelectorAll('.section').forEach(s => s.classList.toggle('active', s.id === `tab-${tab}`));
     }
+  }
+
+  // ── HOME ───────────────────────────────────────────────────────────────────
+  // Clicking the site title restores the default view: TV Shows, Rating ↓, no search
+  function goHome(e) {
+    if (e) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;  // let open-in-new-tab clicks through
+      e.preventDefault();
+    }
+    document.getElementById('modal').classList.remove('open');
+    document.getElementById('search-input').value = '';
+    handleSearch('');
+    document.querySelectorAll('.controls select').forEach(s => { s.value = 'rating-desc'; });
+    sortGrid('shows',  'rating-desc');
+    sortGrid('movies', 'rating-desc');
+    switchTab('shows');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   // ── MODAL ──────────────────────────────────────────────────────────────────
