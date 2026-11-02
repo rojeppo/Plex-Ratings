@@ -30,17 +30,18 @@ async function plexGet(p) {
   return res.json();
 }
 
-async function downloadPoster(thumb, ratingKey) {
+// Defaults to a 2:3 poster. Episode thumbnails pass a landscape size and a filename prefix.
+async function downloadPoster(thumb, ratingKey, { width = 600, height = 900, prefix = '' } = {}) {
   if (!thumb) return null;
   const sep = thumb.includes('?') ? '&' : '?';
   const innerUrl = encodeURIComponent(`${PLEX_URL}${thumb}?X-Plex-Token=${PLEX_TOKEN}`);
-  const url = `${PLEX_URL}/photo/:/transcode?url=${innerUrl}&width=600&height=900&minSize=1&upscale=1&X-Plex-Token=${PLEX_TOKEN}`;
+  const url = `${PLEX_URL}/photo/:/transcode?url=${innerUrl}&width=${width}&height=${height}&minSize=1&upscale=1&X-Plex-Token=${PLEX_TOKEN}`;
   try {
     const res = await fetch(url);
     if (!res.ok) return null;
     const buffer = await res.arrayBuffer();
     fs.mkdirSync('posters', { recursive: true });
-    const filename = `posters/${ratingKey}.jpg`;
+    const filename = `posters/${prefix}${ratingKey}.jpg`;
     fs.writeFileSync(filename, Buffer.from(buffer));
     return filename;
   } catch (e) {
@@ -291,7 +292,8 @@ async function main() {
           console.warn(`Could not fetch details for episode ${ep.ratingKey}, using basic data.`);
         }
 
-        const show = await getShowInfo(ep.grandparentRatingKey);
+        const show  = await getShowInfo(ep.grandparentRatingKey);
+        const thumb = await downloadPoster(ep.thumb || detail.thumb, ep.ratingKey, { width: 640, height: 360, prefix: 'ep-' });
 
         episodes.push({
           ratingKey:     ep.ratingKey,
@@ -308,6 +310,7 @@ async function main() {
           imdbId:        extractImdbId(detail),
           type:          'episode',
           poster:        show.poster,
+          thumb,
           whereToWatch:  show.whereToWatch
         });
       }
