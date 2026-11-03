@@ -4197,8 +4197,8 @@
         "Comedy",
         "Animation",
         "Adventure",
-        "Crime",
-        "Family"
+        "Action",
+        "Crime"
       ],
       "imdbId": "tt1216475",
       "type": "movie",
@@ -4294,6 +4294,10 @@
         "link": "https://www.themoviedb.org/movie/7214-coach-carter/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
@@ -4308,6 +4312,10 @@
           {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
+          },
+          {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           },
           {
             "name": "YouTube Free",
@@ -4530,8 +4538,16 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
+            "name": "HBO Max",
+            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+          },
+          {
+            "name": "Cinemax Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
           }
         ]
       }
@@ -4659,10 +4675,6 @@
           {
             "name": "fuboTV",
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
             "name": "YouTube TV",
@@ -5203,6 +5215,10 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
@@ -5217,10 +5233,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -5510,10 +5522,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-          },
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           }
         ]
       }
@@ -5836,6 +5844,10 @@
         "link": "https://www.themoviedb.org/movie/9502-kung-fu-panda/watch?locale=US",
         "providers": [
           {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          },
+          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           },
@@ -6059,6 +6071,10 @@
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
           {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
@@ -6077,10 +6093,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -6238,12 +6250,12 @@
             "logo": "https://image.tmdb.org/t/p/original/dI7GHS1st3jWH8eW21x5YnJdUFN.png"
           },
           {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
-          },
-          {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
           {
             "name": "Tubi TV",
@@ -6278,6 +6290,10 @@
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          },
+          {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
           }
@@ -6310,6 +6326,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -6530,8 +6550,16 @@
             "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           },
           {
+            "name": "HBO Max",
+            "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
             "name": "FXNow",
             "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
+          },
+          {
+            "name": "Cinemax Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
           }
         ]
       }
@@ -6623,6 +6651,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9778-serendipity/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
@@ -7251,6 +7283,10 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
@@ -7265,10 +7301,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -7669,12 +7701,12 @@
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
           },
           {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
-          },
-          {
             "name": "Plex",
             "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
+            "name": "Fandango at Home Free",
+            "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
             "name": "Tubi TV",
@@ -8024,6 +8056,10 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
             "name": "Fandango at Home Free",
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
@@ -8034,10 +8070,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -8072,10 +8104,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/7299-equilibrium/watch?locale=US",
         "providers": [
-          {
-            "name": "Paramount Plus Essential",
-            "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
-          },
           {
             "name": "Kanopy",
             "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
@@ -8129,6 +8157,10 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/881-a-few-good-men/watch?locale=US",
         "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
           {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
@@ -8280,6 +8312,10 @@
           {
             "name": "MGM Plus",
             "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
+          },
+          {
+            "name": "Kanopy",
+            "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           }
         ]
       }
@@ -8716,7 +8752,19 @@
       "imdbId": "tt14114802",
       "type": "movie",
       "poster": "posters/13299.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/799876-the-outfit/watch?locale=US",
+        "providers": [
+          {
+            "name": "Netflix",
+            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "12434",
@@ -9128,6 +9176,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "Peacock Premium",
+            "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
           {
             "name": "Peacock Premium Plus",
@@ -10003,5 +10055,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-03T13:04:17.266Z"
+  "updatedAt": "2026-11-03T22:37:04.481Z"
 }
