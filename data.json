@@ -8948,6 +8948,10 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
+            "name": "Plex",
+            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+          },
+          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
@@ -8962,10 +8966,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -10055,5 +10055,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-03T22:37:04.481Z"
+  "updatedAt": "2026-11-04T03:27:59.033Z"
 }
