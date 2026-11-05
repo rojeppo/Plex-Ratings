@@ -5484,10 +5484,6 @@
           {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
-          },
-          {
-            "name": "YouTube Free",
-            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -8866,6 +8862,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "YouTube Free",
+            "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
         ]
       }
@@ -10071,5 +10071,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-05T03:50:31.995Z"
+  "updatedAt": "2026-11-05T13:33:34.668Z"
 }
