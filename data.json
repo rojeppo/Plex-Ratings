@@ -7425,10 +7425,6 @@
         "link": "https://www.themoviedb.org/movie/9489-you-ve-got-mail/watch?locale=US",
         "providers": [
           {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-          },
-          {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
@@ -10063,5 +10059,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-06T03:47:38.612Z"
+  "updatedAt": "2026-11-06T13:18:03.149Z"
 }
