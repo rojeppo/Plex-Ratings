@@ -4534,16 +4534,8 @@
         "link": "https://www.themoviedb.org/movie/119450-dawn-of-the-planet-of-the-apes/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           },
           {
             "name": "Cinemax Amazon Channel",
@@ -6538,16 +6530,8 @@
         "link": "https://www.themoviedb.org/movie/61791-rise-of-the-planet-of-the-apes/watch?locale=US",
         "providers": [
           {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
-          },
-          {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "name": "FXNow",
-            "logo": "https://image.tmdb.org/t/p/original/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png"
           },
           {
             "name": "Cinemax Amazon Channel",
@@ -8748,10 +8732,6 @@
         "link": "https://www.themoviedb.org/movie/799876-the-outfit/watch?locale=US",
         "providers": [
           {
-            "name": "Netflix",
-            "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
@@ -10055,5 +10035,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-08T02:50:20.871Z"
+  "updatedAt": "2026-11-08T12:16:25.700Z"
 }
