@@ -4306,10 +4306,6 @@
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           },
           {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
-          },
-          {
             "name": "Starz Apple TV channel",
             "logo": "https://image.tmdb.org/t/p/original/lgxDo2a3iGr617vm1rf0k5Hc8jz.png"
           },
@@ -4920,10 +4916,6 @@
           {
             "name": "Peacock Premium Plus",
             "logo": "https://image.tmdb.org/t/p/original/yrEwyMzEKdqAoGhaWUARtIxByol.png"
-          },
-          {
-            "name": "Fandango at Home Free",
-            "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           }
         ]
       }
@@ -5553,10 +5545,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/2048-i-robot/watch?locale=US",
         "providers": [
-          {
-            "name": "Apple TV",
-            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
@@ -6642,10 +6630,6 @@
           {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
-          },
-          {
-            "name": "Kanopy",
-            "logo": "https://image.tmdb.org/t/p/original/cltb8XKan9ierp23ItPmCOcVLRa.png"
           }
         ]
       }
@@ -6876,10 +6860,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "Hulu",
-            "logo": "https://image.tmdb.org/t/p/original/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
           }
         ]
       }
@@ -7218,10 +7198,6 @@
             "logo": "https://image.tmdb.org/t/p/original/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -7553,15 +7529,7 @@
       "imdbId": "tt0289043",
       "type": "movie",
       "poster": "posters/10892.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/170-28-days-later/watch?locale=US",
-        "providers": [
-          {
-            "name": "Apple TV",
-            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "11007",
@@ -7789,8 +7757,8 @@
             "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           },
           {
-            "name": "Paramount Plus Premium",
-            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+            "name": "Paramount Plus Essential",
+            "logo": "https://image.tmdb.org/t/p/original/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
           }
         ]
       }
@@ -8239,10 +8207,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "name": "Apple TV",
-            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
           }
         ]
       }
@@ -8276,10 +8240,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-          },
-          {
-            "name": "MGM Plus",
-            "logo": "https://image.tmdb.org/t/p/original/q63Uzpu7JAs566vA2G23Lk7LcID.png"
           },
           {
             "name": "Kanopy",
@@ -10035,5 +9995,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-08T12:16:25.700Z"
+  "updatedAt": "2026-11-08T21:24:25.446Z"
 }
