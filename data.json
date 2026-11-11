@@ -4213,10 +4213,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -4485,7 +4481,7 @@
       "ratingKey": "8265",
       "title": "The Dark Knight Rises",
       "year": 2012,
-      "summary": "Despite his tarnished reputation after the events of The Dark Knight (2008), in which he took the rap for Dent's crimes, Batman feels compelled to intervene to assist the city and its Police force, which is struggling to cope with Bane's plans to destroy the city.",
+      "summary": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
       "userRating": 9,
       "ratedAt": 1702442319,
       "studio": "Syncopy",
@@ -4493,7 +4489,6 @@
       "duration": 9873960,
       "genres": [
         "Action",
-        "Drama",
         "Crime",
         "Thriller"
       ],
@@ -9035,10 +9030,6 @@
             "logo": "https://image.tmdb.org/t/p/original/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -10015,5 +10006,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-11T13:00:37.332Z"
+  "updatedAt": "2026-11-11T23:45:09.461Z"
 }
