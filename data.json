@@ -8843,12 +8843,24 @@
         "link": "https://www.themoviedb.org/movie/324542-sleepless/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
+            "name": "Paramount Plus Premium",
+            "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
             "name": "Philo",
             "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+          },
+          {
+            "name": "Tubi TV",
+            "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
         ]
       }
@@ -10018,5 +10030,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-17T01:08:57.694Z"
+  "updatedAt": "2026-11-17T14:58:01.823Z"
 }
