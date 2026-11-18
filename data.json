@@ -3670,11 +3670,11 @@
       "contentRating": "TV-14",
       "duration": 1440000,
       "genres": [
-        "Action",
-        "Animation",
-        "Comedy",
         "Fantasy",
-        "Anime"
+        "Anime",
+        "Animation",
+        "Action",
+        "Comedy"
       ],
       "imdbId": "tt5637108",
       "type": "show",
@@ -3730,11 +3730,11 @@
       "contentRating": "TV-MA",
       "duration": 1500000,
       "genres": [
-        "War",
         "History",
-        "Anime",
         "Animation",
-        "Action"
+        "Action",
+        "Adventure",
+        "Drama"
       ],
       "imdbId": "tt10233448",
       "type": "show",
@@ -7079,10 +7079,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8827,10 +8823,6 @@
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "Starz",
             "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
           },
@@ -10006,5 +9998,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-18T00:04:37.070Z"
+  "updatedAt": "2026-11-18T14:39:05.588Z"
 }
