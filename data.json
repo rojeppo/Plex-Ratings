@@ -8163,6 +8163,10 @@
         "link": "https://www.themoviedb.org/movie/328425-the-gift/watch?locale=US",
         "providers": [
           {
+            "name": "Criterion Channel",
+            "logo": "https://image.tmdb.org/t/p/original/32XVilXkVbrwV96O3N5i0rtuyd6.png"
+          },
+          {
             "name": "Lionsgate+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
           },
@@ -9998,5 +10002,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-18T14:39:05.588Z"
+  "updatedAt": "2026-11-18T23:38:38.077Z"
 }
