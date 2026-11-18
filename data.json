@@ -5277,23 +5277,7 @@
       "imdbId": "tt5034838",
       "type": "movie",
       "poster": "posters/2829.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/399566-godzilla-vs-kong/watch?locale=US",
-        "providers": [
-          {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
-          },
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "8436",
@@ -7404,10 +7388,6 @@
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
@@ -8033,10 +8013,6 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Plex",
-            "logo": "https://image.tmdb.org/t/p/original/blAEhvx3XX8sV0fFVFk88FFjubs.png"
           },
           {
             "name": "Tubi TV",
@@ -10030,5 +10006,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-17T14:58:01.823Z"
+  "updatedAt": "2026-11-18T00:04:37.070Z"
 }
