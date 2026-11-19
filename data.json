@@ -4566,7 +4566,7 @@
         "providers": [
           {
             "name": "Apple TV",
-            "logo": "https://image.tmdb.org/t/p/original/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+            "logo": "https://image.tmdb.org/t/p/original/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
           }
         ]
       }
@@ -5539,14 +5539,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "TNT",
-            "logo": "https://image.tmdb.org/t/p/original/6cgMswJ1yXtJLP1uJhM476h2WTH.png"
-          },
-          {
-            "name": "TBS",
-            "logo": "https://image.tmdb.org/t/p/original/8MX4rbkjJUf2NMb2ZVwHq0IATJf.png"
           },
           {
             "name": "tru TV",
@@ -7189,6 +7181,10 @@
             "logo": "https://image.tmdb.org/t/p/original/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
           },
           {
+            "name": "Xumo Play",
+            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
+          },
+          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -7379,10 +7375,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/9489-you-ve-got-mail/watch?locale=US",
         "providers": [
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
@@ -10002,5 +9994,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-19T04:39:30.813Z"
+  "updatedAt": "2026-11-19T14:45:08.320Z"
 }
