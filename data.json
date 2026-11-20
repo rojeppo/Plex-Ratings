@@ -6277,6 +6277,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -8058,7 +8062,15 @@
       "imdbId": "tt6710474",
       "type": "movie",
       "poster": "posters/11637.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once/watch?locale=US",
+        "providers": [
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "10972",
@@ -9986,5 +9998,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-20T14:27:11.986Z"
+  "updatedAt": "2026-11-20T23:26:00.692Z"
 }
