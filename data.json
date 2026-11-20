@@ -6126,6 +6126,10 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "name": "The Roku Channel",
+            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           }
         ]
       }
@@ -8749,7 +8753,7 @@
       "summary": "Kirk is an average Joe who works as a TSA agent at the Pittsburgh airport with his friends. The status quo of his fairly monotonous life ends when he meets Molly, a smart, kind and gorgeous blonde. Because she's way out of his league (she's a hard 10 and he is but a 5), Kirk knows there's no way on earth she's ever going to fall for him. Or is there...?",
       "userRating": 8,
       "ratedAt": 1667899429,
-      "studio": "Paramount Pictures",
+      "studio": "DreamWorks Pictures",
       "contentRating": "R",
       "duration": 6272190,
       "genres": [
@@ -9982,5 +9986,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-20T04:43:57.223Z"
+  "updatedAt": "2026-11-20T14:27:11.986Z"
 }
