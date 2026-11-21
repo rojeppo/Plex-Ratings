@@ -4727,10 +4727,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -8228,15 +8224,7 @@
       "imdbId": "tt1568346",
       "type": "movie",
       "poster": "posters/13110.jpg",
-      "whereToWatch": {
-        "link": "https://www.themoviedb.org/movie/65754-the-girl-with-the-dragon-tattoo/watch?locale=US",
-        "providers": [
-          {
-            "name": "Netflix Standard with Ads",
-            "logo": "https://image.tmdb.org/t/p/original/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ]
-      }
+      "whereToWatch": null
     },
     {
       "ratingKey": "11743",
@@ -10022,5 +10010,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-21T13:45:58.084Z"
+  "updatedAt": "2026-11-21T22:29:32.068Z"
 }
