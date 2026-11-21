@@ -3257,6 +3257,34 @@
       }
     },
     {
+      "ratingKey": "35557",
+      "title": "Smoking Behind the Supermarket with You",
+      "year": 2026,
+      "summary": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
+      "userRating": 8,
+      "ratedAt": 1795217271,
+      "studio": "Asahi Production",
+      "contentRating": "TV-14",
+      "duration": 1440000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+      ],
+      "imdbId": "tt37614297",
+      "type": "show",
+      "poster": "posters/35557.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/296286-supano-li-deyani-xi-ufutari/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "19807",
       "title": "Snow White with the Red Hair",
       "year": 2015,
@@ -9998,5 +10026,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-20T23:26:00.692Z"
+  "updatedAt": "2026-11-21T04:23:48.924Z"
 }
