@@ -5559,10 +5559,6 @@
           {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
-          },
-          {
-            "name": "tru TV",
-            "logo": "https://image.tmdb.org/t/p/original/sksAwn7y5P55CNGZ2znVuwLNM8S.png"
           }
         ]
       }
@@ -10026,5 +10022,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-21T04:23:48.924Z"
+  "updatedAt": "2026-11-21T13:45:58.084Z"
 }
