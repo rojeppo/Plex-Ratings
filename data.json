@@ -6710,10 +6710,6 @@
           {
             "name": "Netflix",
             "logo": "https://image.tmdb.org/t/p/original/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "name": "MGM Plus Roku Premium Channel",
-            "logo": "https://image.tmdb.org/t/p/original/surh9i8VYeeq9186fKHnUg5Q5dg.png"
           }
         ]
       }
@@ -8101,10 +8097,6 @@
             "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           }
@@ -8716,10 +8708,6 @@
       "whereToWatch": {
         "link": "https://www.themoviedb.org/movie/2355-reign-over-me/watch?locale=US",
         "providers": [
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
-          },
           {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
@@ -9990,5 +9978,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-22T13:40:13.093Z"
+  "updatedAt": "2026-11-22T22:53:12.315Z"
 }
