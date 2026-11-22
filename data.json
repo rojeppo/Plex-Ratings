@@ -5266,10 +5266,6 @@
           {
             "name": "HBO Max",
             "logo": "https://image.tmdb.org/t/p/original/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
           }
         ]
       }
@@ -5467,10 +5463,6 @@
           {
             "name": "Paramount Plus Premium",
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
-          },
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           }
         ]
       }
@@ -7181,20 +7173,12 @@
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           },
           {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
-          },
-          {
             "name": "The Roku Channel",
             "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-          },
-          {
-            "name": "Filmzie",
-            "logo": "https://image.tmdb.org/t/p/original/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
           },
           {
             "name": "Cineverse",
@@ -8835,8 +8819,8 @@
             "logo": "https://image.tmdb.org/t/p/original/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
           },
           {
-            "name": "Starz",
-            "logo": "https://image.tmdb.org/t/p/original/h25xjouKmiSmFiiqw0aDXbxGZo7.png"
+            "name": "Starz Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/adymMNlhhLlJl5xccRCrsh3OehD.png"
           },
           {
             "name": "Tubi TV",
@@ -9087,10 +9071,6 @@
           {
             "name": "Fawesome",
             "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
-          },
-          {
-            "name": "The Roku Channel",
-            "logo": "https://image.tmdb.org/t/p/original/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
           },
           {
             "name": "YouTube Free",
@@ -10010,5 +9990,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-22T03:37:51.389Z"
+  "updatedAt": "2026-11-22T13:40:13.093Z"
 }
