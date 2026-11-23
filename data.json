@@ -3057,6 +3057,36 @@
       }
     },
     {
+      "ratingKey": "28580",
+      "title": "Saekano: How to Raise a Boring Girlfriend",
+      "year": 2015,
+      "summary": "Aki, a highschool otaku work to support his game making. With remarkable luck, he bumps into Kato, the most beautiful girl he has ever seen. Naturally, the meeting twists his life into a complicated relationships.",
+      "userRating": 9,
+      "ratedAt": 1795422320,
+      "studio": "A-1 Pictures",
+      "contentRating": "TV-14",
+      "duration": 1380000,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Anime",
+        "Animation",
+        "Drama"
+      ],
+      "imdbId": "tt3612626",
+      "type": "show",
+      "poster": "posters/28580.jpg",
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/69367-hu-enai-bi-nu-no-yu-tekata/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll",
+            "logo": "https://image.tmdb.org/t/p/original/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+          }
+        ]
+      }
+    },
+    {
       "ratingKey": "19741",
       "title": "Say \"I Love You.\"",
       "year": 2012,
@@ -4271,6 +4301,10 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          },
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -5368,6 +5402,10 @@
         "link": "https://www.themoviedb.org/movie/9614-happy-gilmore/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
           }
@@ -6289,10 +6327,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7876,6 +7910,14 @@
         "link": "https://www.themoviedb.org/movie/9602-coming-to-america/watch?locale=US",
         "providers": [
           {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          },
+          {
+            "name": "Philo",
+            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
+          },
+          {
             "name": "YouTube TV",
             "logo": "https://image.tmdb.org/t/p/original/48bVXEIyCLSL9pZUQ7gB9ToyWto.png"
           }
@@ -7931,7 +7973,15 @@
       "imdbId": "tt0780504",
       "type": "movie",
       "poster": "posters/11574.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/64690-drive/watch?locale=US",
+        "providers": [
+          {
+            "name": "fuboTV",
+            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "13015",
@@ -9978,5 +10028,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-23T04:11:40.583Z"
+  "updatedAt": "2026-11-23T16:35:36.225Z"
 }
