@@ -1052,7 +1052,15 @@
       "imdbId": "tt0774809",
       "type": "show",
       "poster": "posters/17236.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/tv/37858-fate-stay-night/watch?locale=US",
+        "providers": [
+          {
+            "name": "Crunchyroll Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "33511",
@@ -8415,7 +8423,19 @@
       "imdbId": "tt1189340",
       "type": "movie",
       "poster": "posters/13193.jpg",
-      "whereToWatch": null
+      "whereToWatch": {
+        "link": "https://www.themoviedb.org/movie/50348-the-lincoln-lawyer/watch?locale=US",
+        "providers": [
+          {
+            "name": "Amazon Prime Video",
+            "logo": "https://image.tmdb.org/t/p/original/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "name": "Lionsgate+ Amazon Channel",
+            "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+          }
+        ]
+      }
     },
     {
       "ratingKey": "12138",
@@ -10032,5 +10052,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-25T01:40:09.413Z"
+  "updatedAt": "2026-11-26T01:12:36.605Z"
 }
