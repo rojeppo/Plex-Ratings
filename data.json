@@ -4897,10 +4897,6 @@
         "link": "https://www.themoviedb.org/movie/9799-the-fast-and-the-furious/watch?locale=US",
         "providers": [
           {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
-          },
-          {
             "name": "Peacock Premium",
             "logo": "https://image.tmdb.org/t/p/original/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png"
           },
@@ -7125,10 +7121,6 @@
           {
             "name": "Disney Plus",
             "logo": "https://image.tmdb.org/t/p/original/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          },
-          {
-            "name": "fuboTV",
-            "logo": "https://image.tmdb.org/t/p/original/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
           }
         ]
       }
@@ -7225,6 +7217,10 @@
           {
             "name": "YouTube Free",
             "logo": "https://image.tmdb.org/t/p/original/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
+          },
+          {
+            "name": "Filmzie",
+            "logo": "https://image.tmdb.org/t/p/original/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
           },
           {
             "name": "Cineverse",
@@ -8413,6 +8409,10 @@
           {
             "name": "Lionsgate+ Amazon Channel",
             "logo": "https://image.tmdb.org/t/p/original/1356slxu4QrHOMrEVDKHJXRo5sW.png"
+          },
+          {
+            "name": "Fawesome",
+            "logo": "https://image.tmdb.org/t/p/original/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
           }
         ]
       }
@@ -8598,10 +8598,6 @@
           {
             "name": "Hoopla",
             "logo": "https://image.tmdb.org/t/p/original/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
-          },
-          {
-            "name": "Philo",
-            "logo": "https://image.tmdb.org/t/p/original/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png"
           },
           {
             "name": "The Roku Channel",
@@ -10032,5 +10028,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-27T01:11:45.510Z"
+  "updatedAt": "2026-11-27T15:41:06.341Z"
 }
