@@ -7231,10 +7231,6 @@
             "logo": "https://image.tmdb.org/t/p/original/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
           },
           {
-            "name": "Xumo Play",
-            "logo": "https://image.tmdb.org/t/p/original/n6E9OeoQicCDd43PnLsMpVIVYFK.png"
-          },
-          {
             "name": "Tubi TV",
             "logo": "https://image.tmdb.org/t/p/original/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
           }
@@ -10036,5 +10032,5 @@
       }
     }
   ],
-  "updatedAt": "2026-11-26T15:52:31.643Z"
+  "updatedAt": "2026-11-27T01:11:45.510Z"
 }
